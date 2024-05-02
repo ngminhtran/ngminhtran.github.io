@@ -30,31 +30,31 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="http://localhost:4000/">Minh Tran</a></h1>
+        <h1><a class="title" href="http://localhost:4000/" >Minh Tran</a></h1>
         <!--<p></p>-->
         
         <!--  -->
 
         
-          <img src="/assets/img/profile.jpg" alt="Logo" />
+          <img  id="logo" src="/assets/img/profile.jpg" alt="Logo" />
           
         
         
         <p class="view">I'm a second-year PhD student in Computer Science at the University of Chicago, advised by <a href="http://people.cs.uchicago.edu/~dmfranklin/index.html" target="_blank">Diana Franklin</a>. Previously, I graduated with a dual degree in Computer Science and Psychology from the University of Arizona. Before college, I spent my life in a gorgeous mountainous province in the Northwest region of Vietnam.</p>
 
-        <p class="view" align="center">
+        <!-- <p class="view" align="center">
           <a class="space" href="/assets/app_materials/minhtran_cv.pdf" target="_blank"><i class="fa-solid fa-file"></i> cv </a> &ensp;
           <a class="space" href="https://scholar.google.com/citations?user=elG0WcsAAAAJ&hl=en&oi=ao" target="_blank"><i class="fa-brands fa-google-scholar"></i> scholar </a> &ensp;
           <a class="space" href="https://www.linkedin.com/in/ngminhtran/" target="_blank"><i class="fa-brands fa-linkedin"></i> linkedin </a> &ensp;
           <a class="space" href="mailto:ngminhtran@uchicago.edu" target="_blank"><i class="fa-solid fa-envelope"></i> contact </a>
-        </p>
+        </p> -->
 
-        <!-- <p class="view">
+        <p class="view">
           <a class="space" href="/assets/app_materials/minhtran_cv.pdf" target="_blank">cv</a> &emsp;
           <a class="space" href="https://scholar.google.com/citations?user=elG0WcsAAAAJ&hl=en&oi=ao" target="_blank">scholar</a> &emsp; 
           <a class="space" href="https://www.linkedin.com/in/ngminhtran/" target="_blank">linkedin</a> &emsp;
           <a class="space" href="mailto:ngminhtran@uchicago.edu" target="_blank">contact</a>
-        </p> -->
+        </p>
 
       </header>
       <section>
@@ -133,6 +133,19 @@
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
       ga('create', 'UA-172994725-1', 'auto');
       ga('send', 'pageview');
+    </script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        var logo = document.getElementById("logo");
+        var originalSrc = logo.src;
+        var hoverSrc = "/assets/img/profile.jpg";    
+        logo.addEventListener("mouseover", function() {
+          this.src = hoverSrc;
+        });    
+        logo.addEventListener("mouseout", function() {
+          this.src = originalSrc;
+        });
+      });
     </script>
     
   </body>
