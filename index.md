@@ -1,6 +1,6 @@
 ---
 layout: default
-logo: /assets/img/profile_scratch.gif
+logo: /assets/img/profile.gif
 logo_note: true
 ---
 
