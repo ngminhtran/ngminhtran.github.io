@@ -7,9 +7,9 @@ logo_note: true
 * * *
 ## Research
 
-My research spans culturally relevant and responsive computing education in K-8 (ages 8-14).
+My research spans culturally relevant and responsive CS education in K-8 (ages 8-14).
 I’m fascinated by how kids feel in CS classrooms, especially those who are not well served by mainstream instruction.
-I use design-based research and qualitative analysis to identify and address challenges faced by students and teachers, and develop interventions to make CS classrooms a meaningful and engaging space for kids while ensuring their learning outcomes and optimizing the workload for teachers.
+I use design-based research and qualitative analysis to identify and address challenges faced by students and teachers, and develop interventions and tools to make CS lessons more meaningful and engaging for kids, while ensuring their learning outcomes and optimizing the workload for teachers.
 
 * * *
 ## Publications 
