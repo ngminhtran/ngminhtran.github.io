@@ -1,5 +1,6 @@
 ---
 layout: default
+title: home
 logo: /assets/img/profile.gif
 logo_note: true
 ---
