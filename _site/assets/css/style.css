@@ -305,9 +305,9 @@
 body {
   background-color: #fcfcfc;
   padding: 50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #727272;
-  font-weight: 400;
+  font: 15px/1.5 "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #222;
+  font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -317,6 +317,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin: 0 0 20px;
+  font-weight: 300;
 }
 
 h1, h2, h3 {
@@ -328,16 +329,20 @@ h1 {
 }
 
 h2 {
-  color: #393939;
+  color: #222;
 }
 
 h3, h4, h5, h6 {
-  color: #494949;
+  color: #222;
+}
+
+h5 {
+  font-weight: 300;
 }
 
 a {
-  color: #929d7a;
-  text-decoration: underline;
+  color: #758e4f;
+  text-decoration: none;
 }
 
 a.title {
@@ -345,26 +350,22 @@ a.title {
 }
 
 a:hover, a:focus {
-  color: #8b9767;
-  font-weight: bold;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover.title, a:focus.title {
-  color: #8b9767;
-  font-weight: bold;
   text-decoration: underline;
 }
 
 a small {
   font-size: 11px;
-  color: #929d7a;
+  color: #758e4f;
   margin-top: -0.3em;
   display: block;
 }
 
 a:hover small {
-  color: #8b9767;
+  text-decoration: underline;
 }
 
 .wrapper {
@@ -405,7 +406,7 @@ th, td {
 
 dt {
   color: #444;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 th {
@@ -554,6 +555,11 @@ footer {
     word-wrap: normal;
   }
 }
+.contact {
+  font-style: italic;
+  font-size: 14px;
+}
+
 @media print, screen and (max-width: 480px) {
   body {
     padding: 15px;
