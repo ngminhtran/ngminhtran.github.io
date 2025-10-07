@@ -2,3 +2,10 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+p:has(+ ul) {
+  margin-bottom: 0;
+}
+p + ul {
+  margin-top: 0;
+}

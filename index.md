@@ -1,17 +1,26 @@
 ---
 layout: default
-title: home
 logo: /assets/img/profile.gif
 logo_note: true
 ---
 
 ## Research
 
+My research is in Computer Science Education, focusing on designing and implementing personalized learning experiences that enhance student engagement and learning while maintaining a manageable workload for teachers (teaching students ages 9-13).
 
-I’m fascinated by how kids feel when they first expose to computer science in a formal setting, especially those who have no or very little personal connection to it.
-My research spans culturally responsive Computer Science Education (CSEd) at the K-8 level (ages 8-14).
+I am currently exploring the following directions:
 
-Through design-based research, my current work focuses on developing scaffolds and tool supports for creating localized computer science instructional materials that faciliate student engagement and learning while optimizing teacher workload.
+**Teacher-Led Curriculum Customization:** What knowledge, supports, and scaffolds are needed to empower teachers to adapt CS instructional materials to their students' cultures and lived experiences?
+
+**Teacher-in-the-loop AI:** How can we leverage AI to support teachers in efficiently preparing CS instructional materials while retaining teacher agency?
+
+**Classroom Impact:**
+* How do teaching practices shift when CS teachers are teaching lesson materials they have created without and with AI support?
+* How do students respond to lesson materials created by their teachers?
+* How do teacher-authored lessons impact students from historically excluded populations in computing?
+
+*My goal as a researcher is to make CS more accessible, especially for kids with limited personal connection to computing and technology or those who have a non-mainstream cultural background.*
+
 * * *
 ## Selected Publications 
 
@@ -32,6 +41,10 @@ Through design-based research, my current work focuses on developing scaffolds a
 
 * * *
 ## Teaching
+
+Computers for Learning\
+<sub>Position: Co-Instructor | Instructor: Diana Franklin</sub>\
+<sup>*University of Chicago, Fall 2025*</sup>
 
 Design For Underserved and Marginalized Communities\
 <sub>Position: Teaching Assistant | Instructor: Marshini Chetty</sub>\

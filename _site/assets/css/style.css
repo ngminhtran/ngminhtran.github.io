@@ -506,7 +506,7 @@ hr {
 }
 
 .short_hr {
-  width: 65%;
+  width: 75%;
   margin-top: 5px;
   margin-bottom: 5px;
 }
@@ -583,6 +583,13 @@ footer {
     font-size: 12pt;
     color: #444;
   }
+}
+p:has(+ ul) {
+  margin-bottom: 0;
+}
+
+p + ul {
+  margin-top: 0;
 }
 
 /*# sourceMappingURL=style.css.map */
