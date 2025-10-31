@@ -52,7 +52,7 @@
       document.addEventListener("DOMContentLoaded", function() {
         var logo = document.getElementById("logo");
 
-        {% if page.title == "home" %}
+        {% if page.title == "Home" %}
         var originalSrc = logo.src;
         var hoverSrc = "{{ '/assets/img/profile.jpg' | relative_url }}";    
         

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 logo: /assets/img/profile.gif
 logo_note: true
 ---
@@ -10,16 +11,16 @@ My research is in Computer Science Education, focusing on designing and implemen
 
 I am currently exploring the following directions:
 
-**Teacher-Led Curriculum Customization:** What knowledge, supports, and scaffolds are needed to empower teachers to adapt CS instructional materials to their students' cultures and lived experiences?
+**Teacher-Led Curriculum Customization:** What knowledge, supports, and scaffolds are needed to empower teachers to adapt CS instructional materials to their students' cultures and experiences?
 
-**Teacher-in-the-loop AI:** How can we leverage AI to support teachers in efficiently preparing CS instructional materials while retaining teacher agency?
+**Teacher-AI Co-Creation:** How can we leverage AI to help teachers prepare CS instructional materials while retaining teacher agency?
 
 **Classroom Impact:**
-* How do teaching practices shift when CS teachers are teaching lesson materials they have created without and with AI support?
-* How do students respond to lesson materials created by their teachers?
-* How do teacher-authored lessons impact students from historically excluded populations in computing?
+* How do teaching practices shift when CS teachers are teaching materials they have created without and with AI support?
+* How do students respond to materials created by their teachers?
+* How do teacher-authored lesson materials impact students from historically excluded populations in computing?
 
-*My goal as a researcher is to make CS more accessible, especially for kids with limited personal connection to computing and technology or those who have a non-mainstream cultural background.*
+*My goal as a researcher is to make CS more accessible, especially for kids with limited personal connection to computing and technology or those who have a non-dominant cultural background.*
 
 * * *
 ## Selected Publications 
@@ -52,15 +53,11 @@ Design For Underserved and Marginalized Communities\
 
 Object-Oriented Programming and Design\
 <sub>Position: Teaching Assistant | Instructor: Jonathan Misurda</sub>\
-<sup>*University of Arizona, Fall 2020 - Fall 2021*</sup>
+<sup>*University of Arizona, Fall 2020 / Spring 2021 / Fall 2021*</sup>
 
 Algebra I/II, Geometry, Pre-Calculus\
 <sub>Position: Tutor</sub>\
 <sup>*Ironwood Ridge High School, Spring 2020*</sup>
-
-Vietnamese Language (3rd and 4th grade)\
-<sub>Position: Co-Instructor</sub>\
-<sup>*Our Lady of La Vang Tucson, Fall 2019 - Spring 2022*</sup>
 
 * * *
 [Get to know more about me!!!](./about.html)

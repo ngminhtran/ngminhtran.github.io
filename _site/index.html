@@ -6,18 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Minh Tran</title>
+<title>Home | Minh Tran</title>
 <meta name="generator" content="Jekyll v4.3.3" />
-<meta property="og:title" content="Minh Tran" />
+<meta property="og:title" content="Home" />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="http://localhost:4000/" />
 <meta property="og:url" content="http://localhost:4000/" />
 <meta property="og:site_name" content="Minh Tran" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Minh Tran" />
+<meta property="twitter:title" content="Home" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Minh Tran","name":"Minh Tran","url":"http://localhost:4000/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"Home","name":"Minh Tran","url":"http://localhost:4000/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=">
@@ -56,18 +56,18 @@
 
 <p>I am currently exploring the following directions:</p>
 
-<p><strong>Teacher-Led Curriculum Customization:</strong> What knowledge, supports, and scaffolds are needed to empower teachers to adapt CS instructional materials to their students’ cultures and lived experiences?</p>
+<p><strong>Teacher-Led Curriculum Customization:</strong> What knowledge, supports, and scaffolds are needed to empower teachers to adapt CS instructional materials to their students’ cultures and experiences?</p>
 
-<p><strong>Teacher-in-the-loop AI:</strong> How can we leverage AI to support teachers in efficiently preparing CS instructional materials while retaining teacher agency?</p>
+<p><strong>Teacher-AI Co-Creation:</strong> How can we leverage AI to help teachers prepare CS instructional materials while retaining teacher agency?</p>
 
 <p><strong>Classroom Impact:</strong></p>
 <ul>
-  <li>How do teaching practices shift when CS teachers are teaching lesson materials they have created without and with AI support?</li>
-  <li>How do students respond to lesson materials created by their teachers?</li>
-  <li>How do teacher-authored lessons impact students from historically excluded populations in computing?</li>
+  <li>How do teaching practices shift when CS teachers are teaching materials they have created without and with AI support?</li>
+  <li>How do students respond to materials created by their teachers?</li>
+  <li>How do teacher-authored lesson materials impact students from historically excluded populations in computing?</li>
 </ul>
 
-<p><em>My goal as a researcher is to make CS more accessible, especially for kids with limited personal connection to computing and technology or those who have a non-mainstream cultural background.</em></p>
+<p><em>My goal as a researcher is to make CS more accessible, especially for kids with limited personal connection to computing and technology or those who have a non-dominant cultural background.</em></p>
 
 <hr />
 <h2 id="selected-publications">Selected Publications</h2>
@@ -99,15 +99,11 @@
 
 <p>Object-Oriented Programming and Design<br />
 <sub>Position: Teaching Assistant | Instructor: Jonathan Misurda</sub><br />
-<sup><em>University of Arizona, Fall 2020 - Fall 2021</em></sup></p>
+<sup><em>University of Arizona, Fall 2020 / Spring 2021 / Fall 2021</em></sup></p>
 
 <p>Algebra I/II, Geometry, Pre-Calculus<br />
 <sub>Position: Tutor</sub><br />
 <sup><em>Ironwood Ridge High School, Spring 2020</em></sup></p>
-
-<p>Vietnamese Language (3rd and 4th grade)<br />
-<sub>Position: Co-Instructor</sub><br />
-<sup><em>Our Lady of La Vang Tucson, Fall 2019 - Spring 2022</em></sup></p>
 
 <hr />
 <p><a href="./about.html">Get to know more about me!!!</a></p>
@@ -125,6 +121,17 @@
       document.addEventListener("DOMContentLoaded", function() {
         var logo = document.getElementById("logo");
 
+        
+        var originalSrc = logo.src;
+        var hoverSrc = "/assets/img/profile.jpg";    
+        
+        logo.addEventListener("mouseover", function() {
+          this.src = hoverSrc;
+        });
+        
+        logo.addEventListener("mouseout", function() {
+          this.src = originalSrc;
+        });
         
       });
     </script>

@@ -32,20 +32,20 @@ My Vietnam isn't the bustling streets of Ho Chi Minh City or the historic buildi
 <div style="text-align: right">
   <small><sub>Muong Hoa valley, Sa Pa (left) / Nghia Do, Bao Yen (right)</sub></small>
   <br>
-  <small><sup>Photos by Minh Tran</sup></small>
+  <small><sup>Photos taken when I visited my dad's workplaces</sup></small>
 </div>
 
 * * *
 ## Misc
 
-I LOVE FOOD!!! I like eating, cooking, and learning about food from different countries. But sorry, I'm biased — Vietnamese food is THE best.
+I like eating, cooking, and learning about food from different countries.
 
 {% include food_gallery layout='third' %}
 <div style="text-align: right"><small><sup>Some photos from my little kitchen</sup></small></div>
 
 <br/>
 
-I recently started running (more seriously) with my partner, and we love it! When we visited my hometown in the summer of 2025, we ran along the Red River — the natural border between Vietnam and China. I’ve always known how close we live to the border, but that run still amazed me with just how near it really is.
+I recently started running (more seriously) with my partner, and we love it! When we visited my hometown in the summer of 2025, we ran along the Red River — the natural border between Vietnam and China. I've always known how close we live to the border, but that run still amazed me with just how near it really is.
 
 {% include run_gallery layout='third' %}
 <div style="text-align: right"><small><sup>Some photos from my river runs in Lao Cai</sup></small></div>
