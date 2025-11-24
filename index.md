@@ -7,20 +7,9 @@ logo_note: true
 
 ## Research
 
-My research is in Computer Science Education, focusing on designing and implementing personalized learning experiences that enhance student engagement and learning while maintaining a manageable workload for teachers (teaching students ages 9-13).
+*My goal as a researcher is to make mainstream CS classrooms more personally meaningful, especially for kids with limited personal connection to computing and technology.*
 
-I am currently exploring the following directions:
-
-**Teacher-Led Curriculum Customization:** What knowledge, supports, and scaffolds are needed to empower teachers to adapt CS instructional materials to their students' cultures and experiences?
-
-**Teacher-AI Co-Creation:** How can we leverage AI to help teachers prepare CS instructional materials while retaining teacher agency?
-
-**Classroom Impact:**
-* How do teaching practices shift when CS teachers are teaching materials they have created without and with AI support?
-* How do students respond to materials created by their teachers?
-* How do teacher-authored lesson materials impact students from historically excluded populations in computing?
-
-*My goal as a researcher is to make CS more accessible, especially for kids with limited personal connection to computing and technology or those who have a non-dominant cultural background.*
+My research is in Computer Science Education, focusing on personalizing and sustaining K-8 CS curriculum. I study the decision-making and challenges of CS teachers and develop approaches and tools to help them create customized curricular materials that fit their local contexts. I am currently exploring both static supports (scaffolding and professional development) and dynamic supports (generative AI as thought-partners and productivity tools for teachers).
 
 * * *
 ## Selected Publications 
@@ -42,6 +31,10 @@ I am currently exploring the following directions:
 
 * * *
 ## Teaching
+
+<!-- Create Computer Games for Learning\
+<sub>Position: Instructor of Record</sub>\
+<sup>*University of Chicago (Pre-College Program), Summer 2026*</sup> -->
 
 Computers for Learning\
 <sub>Position: Co-Instructor | Instructor: Diana Franklin</sub>\
