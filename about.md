@@ -24,9 +24,7 @@ run_gallery:
 
 ## About
 
-I grew up in [Lao Cai](https://en.wikipedia.org/wiki/Lào_Cai_province){:target="_blank"}, a small town right on the Vietnam-China border. It takes just 20 minutes to walk from my house to China, and on Lunar New Year's Eve, I could watch fireworks from both countries.
-
-My Vietnam isn't the bustling streets of Ho Chi Minh City or the historic buildings of Hanoi. It's the mountains, the rice terraces, and the blend of cultures from many ethnic groups.
+I grew up in [Lao Cai](https://en.wikipedia.org/wiki/Lào_Cai_province){:target="_blank"}, a small town right on the Vietnam-China border. It takes just 20 minutes to walk from my house to China.
 
 {% include gallery layout='half' %}
 <div style="text-align: right">
@@ -38,17 +36,17 @@ My Vietnam isn't the bustling streets of Ho Chi Minh City or the historic buildi
 * * *
 ## Misc
 
-I like eating, cooking, and learning about food from different countries.
+I like eating, cooking, and learning about food.
 
 {% include food_gallery layout='third' %}
 <div style="text-align: right"><small><sup>Some photos from my little kitchen</sup></small></div>
 
 <br/>
 
-I recently started running (more seriously) with my partner, and we love it! When we visited my hometown in the summer of 2025, we ran along the Red River — the natural border between Vietnam and China. I've always known how close we live to the border, but that run still amazed me with just how near it really is.
+I enjoy running outdoors while listening to nature.
 
 {% include run_gallery layout='third' %}
-<div style="text-align: right"><small><sup>Some photos from my river runs in Lao Cai</sup></small></div>
+<div style="text-align: right"><small><sup>Some photos from my runs by the <a href="https://en.wikipedia.org/wiki/Red_River_(Asia)" target="_blank">Red River</a> in my hometown &ndash; the natural border between Vietnam and China</sup></small></div>
 
 * * *
-[back](./)
+[back to homepage](./)
