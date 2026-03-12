@@ -39,7 +39,7 @@ I grew up in [Lao Cai](https://en.wikipedia.org/wiki/Lào_Cai_province){:target=
 I like eating, cooking, and learning about food.
 
 {% include food_gallery layout='third' %}
-<div style="text-align: right"><small><sup>Some photos from my little kitchen</sup></small></div>
+<div style="text-align: right"><small><sup>Some photos from my kitchen</sup></small></div>
 
 <br/>
 

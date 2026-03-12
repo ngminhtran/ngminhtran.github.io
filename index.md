@@ -7,20 +7,20 @@ logo_note: true
 
 ## Research
 
-*My goal as a researcher is to make formal CS classrooms more personally meaningful and approachable, especially for kids with limited personal connection to computing and technology.*
+My research focuses on how to make computer science (CS) more approachable for students in mixed-background classrooms while keeping teacher workloads manageable.
 
-My research is in Computer Science Education, focusing on personalizing and sustaining elementary and middle school CS curricula.
+I conduct design-based research with in-service elementary and middle school teachers to help them create and implement CS instructional materials that are tailored to the characteristics of their students and local communities. I use participatory design to identify challenges teachers face and develop professional development to provide teachers with both cognitive and practical support – such as metacognitive scaffolding and instructional design strategies.
 
-I study the decision-making process of teachers when adapting CS curricula to their own classrooms, and develop supporting resources that help them leverage their localized expertise to customize curricular materials to draw on the prior knowledge and cultural resources of their students and communities. Currently, I am exploring both static supports (metacognitive scaffolding and professional development), and dynamic supports (AI-powered thought partners and productivity tools).
+Currently, I am exploring how to responsibly design and develop AI-powered tools to help teachers dynamically create high-quality, customized CS instructional materials for their classrooms, and studying how such technologies can impact teachers’ classroom preparation and teaching practices.
 
 * * *
 ## Selected Publications 
 
-##### More publications on [Google Scholar](https://scholar.google.com/citations?user=elG0WcsAAAAJ&hl=en&oi=ao){:target="_blank"}<br>† denotes full papers&emsp;‡ denotes posters&emsp;\* denotes equal contribution
+##### More publications on [Google Scholar](https://scholar.google.com/citations?user=elG0WcsAAAAJ&hl=en&oi=ao){:target="_blank"}<br>\* denotes equal contribution
 
-[An Interactive Generative AI Tool to Help Teachers Contextually Customize Scratch Projects<sup>‡</sup>](https://dl.acm.org/doi/10.1145/3770761.3777251){:target="_blank"}\
+Conjuror: A GenAI-powered Tool to Support Teachers Customizing a Scratch Curriculum\
 <sub>**Minh Tran\***, David Gonzalez-Maldonado\*, Diana Franklin</sub>\
-<sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2026*</sup>
+<sup>*[Accepted to] ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE), 2026 (Preliminary findings published at SIGCSE 2026: [Poster](/assets/papers/ConjurorPoster_SIGCSE26.pdf){:target="_blank"} | [Writeup](https://dl.acm.org/doi/10.1145/3770761.3777251){:target="_blank"})*</sup>
 
 [Can GPT Help? Supporting Teachers to Brainstorm Customized<br>Instructional Scratch Projects<sup>†</sup>](https://dl.acm.org/doi/10.1145/3641554.3701858){:target="_blank"}\
 <sub>**Minh Tran**, David Gonzalez-Maldonado, Elaine Zhou, Diana Franklin</sub>\
@@ -33,7 +33,7 @@ I study the decision-making process of teachers when adapting CS curricula to th
 * * *
 ## Teaching
 
-[Creating Computer Games for Learning](https://summer.uchicago.edu/courses/creating-computer-games-for-learning/){:target="_blank"}\
+Creating Computer Games for Learning\
 <sub>Position: Instructor of Record</sub>\
 <sup>*University of Chicago (Summer 2026, Pre-College Program)*</sup>
 
@@ -57,4 +57,4 @@ Algebra I/II, Geometry, Pre-Calculus\
 ## Teacher Resources (to be added) -->
 
 * * *
-[Get to know more about me!!!](./about.html)
+[more about me](./about.html)
