@@ -22,11 +22,11 @@ Conjuror: A GenAI-powered Tool to Support Teachers Customizing a Scratch Curricu
 <sub>**Minh Tran\***, David Gonzalez-Maldonado\*, Diana Franklin</sub>\
 <sup>*[Accepted to] ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE), 2026 (Preliminary findings published at SIGCSE 2026: [Poster](/assets/papers/ConjurorPoster_SIGCSE26.pdf){:target="_blank"} | [Writeup](https://dl.acm.org/doi/10.1145/3770761.3777251){:target="_blank"})*</sup>
 
-[Can GPT Help? Supporting Teachers to Brainstorm Customized<br>Instructional Scratch Projects<sup>†</sup>](https://dl.acm.org/doi/10.1145/3641554.3701858){:target="_blank"}\
+[Can GPT Help? Supporting Teachers to Brainstorm Customized<br>Instructional Scratch Projects](https://dl.acm.org/doi/10.1145/3641554.3701858){:target="_blank"}\
 <sub>**Minh Tran**, David Gonzalez-Maldonado, Elaine Zhou, Diana Franklin</sub>\
 <sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2025*</sup>
 
-[Harmonizing Scratch Encore: Scaffolding K-8 Teachers in<br>Customizing Culturally Responsive Computing Materials<sup>†</sup>](https://dl.acm.org/doi/10.1145/3626252.3630756){:target="_blank"}\
+[Harmonizing Scratch Encore: Scaffolding K-8 Teachers in<br>Customizing Culturally Responsive Computing Materials](https://dl.acm.org/doi/10.1145/3626252.3630756){:target="_blank"}\
 <sub>**Minh Tran**, Heather Killen, Jen Palmer, David Weintrop, Diana Franklin</sub>\
 <sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2024*</sup>
 
