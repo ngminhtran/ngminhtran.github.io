@@ -7,11 +7,11 @@ logo_note: true
 
 ## Research
 
-My research focuses on how to make computer science (CS) more approachable for students in mixed-background classrooms while keeping teacher workloads manageable.
+I am broadly interested in how to make computer science more approachable for students in mixed-background classrooms.
 
-I conduct design-based research with in-service elementary and middle school teachers to help them create and implement CS instructional materials that are tailored to the characteristics of their students and local communities. I use participatory design to identify challenges teachers face and develop professional development to provide teachers with both cognitive and practical support – such as metacognitive scaffolding and instructional design strategies.
+I conduct design-based research with in-service elementary and middle school teachers to help them create and implement customized CS instruction in their classrooms. I use participatory design to identify challenges teachers face and develop professional development to provide teachers with both cognitive and practical support – such as metacognitive scaffolding and instructional design strategies.
 
-Currently, I am exploring how to responsibly design and develop AI-powered tools to help teachers dynamically create high-quality, customized CS instructional materials for their classrooms, and studying how such technologies can impact teachers’ classroom preparation and teaching practices.
+Currently, I am exploring how to responsibly design and develop AI-powered tools to help teachers dynamically and efficiently create customized CS and CS-integrated materials, and how using such technologies can impact teacher practices and student performance.
 
 * * *
 ## Selected Publications 
