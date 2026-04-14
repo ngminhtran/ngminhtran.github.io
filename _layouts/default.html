@@ -21,7 +21,7 @@
         {% if page.logo %}
           <img  id="logo" src="{{ page.logo | relative_url }}" alt="Logo" />
           {% if page.logo_note %}
-            <p id="logo_note" align="right"><small><sup>made with <a href="https://scratch.mit.edu" target="_blank">Scratch</a></sup></small></p>
+            <!-- <p id="logo_note" align="right"><small><sup>made with <a href="https://scratch.mit.edu" target="_blank">Scratch</a></sup></small></p> -->
           {% endif %}
         {% endif %}
         
@@ -54,7 +54,7 @@
 
         {% if page.title == "Home" %}
         var originalSrc = logo.src;
-        var hoverSrc = "{{ '/assets/img/profile.jpg' | relative_url }}";    
+        var hoverSrc = "{{ '/assets/img/profile.gif' | relative_url }}";    
         
         logo.addEventListener("mouseover", function() {
           this.src = hoverSrc;
