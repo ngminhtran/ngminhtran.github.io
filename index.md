@@ -1,17 +1,15 @@
 ---
 layout: default
 title: Home
-logo: /assets/img/profile.gif
+logo: /assets/img/profile.jpg
 logo_note: true
 ---
 
 ## Research
 
-I am broadly interested in how to make computer science more approachable for students in mixed-background classrooms.
+My work explores how to leverage community knowledge to develop educational resources and tools that help make computer science instruction more effective and engaging, especially at the K-12 level.
 
-I conduct design-based research with in-service elementary and middle school teachers to help them create and implement customized CS instruction in their classrooms. I use participatory design to identify challenges teachers face and develop professional development to provide teachers with both cognitive and practical support – such as metacognitive scaffolding and instructional design strategies.
-
-Currently, I am exploring how to responsibly design and develop AI-powered tools to help teachers dynamically and efficiently create customized CS and CS-integrated materials, and how using such technologies can impact teacher practices and student performance.
+In my dissertation work, I conduct participatory design research with computer science teachers to (1) understand their challenges and metacognitive process to create and implement classroom-level customized instruction, (2) integrate teachers' knowledge to develop an AI-powered tool for curriculum customization, and (3) study the impacts of such tool on teachers' practices and classroom dynamics.
 
 * * *
 ## Selected Publications 
@@ -22,11 +20,11 @@ Conjuror: A GenAI-powered Tool to Support Teachers Customizing a Scratch Curricu
 <sub>**Minh Tran\***, David Gonzalez-Maldonado\*, Diana Franklin</sub>\
 <sup>*[Accepted to] ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE), 2026 (Preliminary findings published at SIGCSE 2026: [Poster](/assets/papers/ConjurorPoster_SIGCSE26.pdf){:target="_blank"} | [Writeup](https://dl.acm.org/doi/10.1145/3770761.3777251){:target="_blank"})*</sup>
 
-[Can GPT Help? Supporting Teachers to Brainstorm Customized<br>Instructional Scratch Projects](https://dl.acm.org/doi/10.1145/3641554.3701858){:target="_blank"}\
+[Can GPT Help? Supporting Teachers to Brainstorm Customized Instructional Scratch Projects](https://dl.acm.org/doi/10.1145/3641554.3701858){:target="_blank"}\
 <sub>**Minh Tran**, David Gonzalez-Maldonado, Elaine Zhou, Diana Franklin</sub>\
 <sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2025*</sup>
 
-[Harmonizing Scratch Encore: Scaffolding K-8 Teachers in<br>Customizing Culturally Responsive Computing Materials](https://dl.acm.org/doi/10.1145/3626252.3630756){:target="_blank"}\
+[Harmonizing Scratch Encore: Scaffolding K-8 Teachers in Customizing Culturally Responsive Computing Materials](https://dl.acm.org/doi/10.1145/3626252.3630756){:target="_blank"}\
 <sub>**Minh Tran**, Heather Killen, Jen Palmer, David Weintrop, Diana Franklin</sub>\
 <sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2024*</sup>
 
