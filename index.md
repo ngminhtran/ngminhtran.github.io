@@ -9,7 +9,7 @@ logo_note: true
 
 My work explores how to leverage community knowledge to develop educational resources and tools that help make computer science instruction more effective and engaging, especially at the K-12 level.
 
-In my dissertation work, I conduct participatory design research with computer science teachers to (1) understand their challenges and metacognitive process to create and implement classroom-level customized instruction, (2) integrate teachers' knowledge to develop an AI-powered tool for curriculum customization, and (3) study the impacts of such tool on teachers' practices and classroom dynamics.
+In my ongoing work, I conduct participatory design research with computer science teachers to (1) understand their challenges and approaches to design, develop, and implement classroom-level customized instruction, (2) integrate teachers' knowledge to build an AI-powered tool for curriculum customization, and (3) study the impacts of such tool on teachers' practices and classroom dynamics.
 
 * * *
 ## Selected Publications 
