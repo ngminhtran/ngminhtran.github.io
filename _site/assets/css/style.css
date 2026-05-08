@@ -586,6 +586,97 @@ footer {
     color: #444;
   }
 }
+body.course-page {
+  font-family: "EB Garamond", Helvetica, sans-serif;
+  padding: 1em;
+  margin: 0 auto;
+  max-width: 1000px;
+  font-size: 14pt;
+  line-height: 1.5;
+  color: #000;
+  background: #fff;
+}
+body.course-page h1, body.course-page h2, body.course-page h3, body.course-page h4, body.course-page h5 {
+  font-family: "Raleway", Helvetica, sans-serif;
+  font-weight: 700;
+  color: #000;
+}
+body.course-page a {
+  color: #880000;
+  font-weight: 700;
+  text-decoration: none;
+}
+body.course-page a:hover {
+  text-decoration: none;
+}
+body.course-page p {
+  text-align: justify;
+}
+body.course-page p, body.course-page ul, body.course-page ol, body.course-page dl {
+  font-weight: normal;
+}
+
+.course-topbar {
+  margin-bottom: 1.5em;
+}
+
+.course-back-link {
+  font-family: "Raleway", Helvetica, sans-serif;
+  font-size: 0.8em;
+  font-weight: 700;
+  color: #880000;
+  text-decoration: none;
+}
+.course-back-link:hover {
+  text-decoration: underline;
+}
+
+.course-content {
+  padding-bottom: 2em;
+}
+
+.course-footer {
+  border-top: thin solid;
+  padding-top: 0.5em;
+  font-size: 0.75em;
+  color: #666;
+}
+
+.schedule-table {
+  border-top: medium solid;
+  border-bottom: medium solid;
+  border-collapse: collapse;
+  width: 100%;
+}
+.schedule-table td:first-child, .schedule-table th:first-child {
+  max-width: 130px;
+  white-space: normal;
+}
+.schedule-table td, .schedule-table th {
+  padding: 0.5em;
+  border-bottom: thin solid;
+  vertical-align: middle;
+}
+.schedule-table thead th {
+  font-family: "Raleway", Helvetica, sans-serif;
+  font-weight: 700;
+}
+.schedule-table .week-cell {
+  font-family: "Raleway", Helvetica, sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+.schedule-table .day-cell, .schedule-table .date-cell {
+  text-align: center;
+  white-space: nowrap;
+}
+.schedule-table tr.assignment td {
+  background-color: rgba(204, 51, 102, 0.5);
+}
+.schedule-table .assignment-cell {
+  font-weight: bold;
+}
+
 p:has(+ ul) {
   margin-bottom: 0;
 }

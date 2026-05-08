@@ -1,0 +1,47 @@
+<table class="schedule-table" id="lecture-schedule">
+  <thead>
+    <tr>
+      <th scope="col">Week</th>
+      <th scope="col">Day</th>
+      <th scope="col">Date</th>
+      <th scope="col">Lecture</th>
+      <th scope="col">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for week in site.data.cgl_schedule %}
+      {% assign week_rowspan = week.days | size %}
+      {% for day in week.days %}
+        {% if day.assignment or day.extra_credit %}
+          {% assign week_rowspan = week_rowspan | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+
+      {% for day in week.days %}
+        <tr>
+          {% if forloop.first %}
+          <th scope="row" rowspan="{{ week_rowspan }}" class="week-cell">{{ week.week }}</th>
+          {% endif %}
+          <td class="day-cell">{{ day.day }}{% if day.zoom %} <em>(Zoom)</em>{% endif %}</td>
+          <td class="date-cell">{{ day.date }}</td>
+          <td class="lecture-cell">{{ day.lecture }}</td>
+          <td class="lab-cell">{{ day.lab }}</td>
+        </tr>
+        {% if day.assignment %}
+        <tr class="assignment">
+          <td></td>
+          <td></td>
+          <td colspan="2" class="assignment-cell">[Assignment Due] {{ day.assignment }}</td>
+        </tr>
+        {% endif %}
+        {% if day.extra_credit %}
+        <tr class="assignment">
+          <td></td>
+          <td></td>
+          <td colspan="2" class="assignment-cell">[Extra Credit] {{ day.extra_credit }}</td>
+        </tr>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </tbody>
+</table>
