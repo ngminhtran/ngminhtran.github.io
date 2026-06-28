@@ -8,15 +8,23 @@ description: "Summer 2026 Pre-College course at the University of Chicago explor
 
 **University of Chicago Pre-College Program** &mdash; Summer 2026
 
-**Instructor:** Minh Tran &emsp; **Role:** Instructor of Record
+**Instructor:** Minh Tran ([ngminhtran@uchicago.edu](mailto:ngminhtran@uchicago.edu))
 
-**Dates:** July 7&ndash;23, 2026 &emsp; **Format:** In-person (some sessions via Zoom)
+**TA:** Han Dang
+
+**Office Hours:** By appointment, email the instructor (preferred) or talk to the instructor after class.
+
+**Dates:** July 7&ndash;23, 2026, 9AM - 3PM daily
+
+**Format:** In-person (some sessions via [Zoom](TBD))
+
+**Classroom:** Ryerson Phys Lab 255 (lectures), Ryserson Phys Lab 277 (labs)
 
 ---
 
 ## Course Description
 
-This course explores the design and development of educational computer games. Students learn Python programming alongside theories of learning and game design, culminating in an original educational game built for a self-chosen target audience.
+As the computing field continues to advance, interdisciplinary applications of computer science are of increasing importance. This class focuses on a fun approach to the challenge and necessity of designing for human users: Creating Computer Games for Learning. We will explore concepts in educational theories and game design principles and learn game programming in Python. At the end of this class, we create our own educational computer games, where incorporating personal experiences and interests will be highly encouraged. During this process, we will also meet active researchers in the field to discuss what they are using computer games to teach and how their games are effectively teaching it.
 
 ---
 

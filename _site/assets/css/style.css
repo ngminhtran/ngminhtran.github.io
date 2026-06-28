@@ -636,6 +636,9 @@ body.course-page p, body.course-page ul, body.course-page ol, body.course-page d
 }
 
 .course-footer {
+  position: static;
+  width: auto;
+  float: none;
   border-top: thin solid;
   padding-top: 0.5em;
   font-size: 0.75em;
@@ -669,6 +672,12 @@ body.course-page p, body.course-page ul, body.course-page ol, body.course-page d
 .schedule-table .day-cell, .schedule-table .date-cell {
   text-align: center;
   white-space: nowrap;
+}
+.schedule-table .lecture-cell, .schedule-table .lab-cell {
+  vertical-align: top;
+}
+.schedule-table .lecture-cell div + div, .schedule-table .lab-cell div + div {
+  margin-top: 0.3em;
 }
 .schedule-table tr.assignment td {
   background-color: rgba(204, 51, 102, 0.5);
