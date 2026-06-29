@@ -2,6 +2,7 @@
 ---
 
 @import "jekyll-theme-minimal";
+@import "course";
 
 p:has(+ ul) {
   margin-bottom: 0;

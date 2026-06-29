@@ -31,7 +31,7 @@ Conjuror: A GenAI-powered Tool to Support Teachers Customizing a Scratch Curricu
 * * *
 ## Teaching
 
-Creating Computer Games for Learning\
+[Creating Computer Games for Learning](/teaching/cgl/)\
 <sub>Position: Instructor of Record</sub>\
 <sup>*University of Chicago (Summer 2026, Pre-College Program)*</sup>
 

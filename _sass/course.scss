@@ -1,0 +1,109 @@
+// Course page: styled to match https://liujon23.github.io/271-summer25/index.html
+
+body.course-page {
+  font-family: 'EB Garamond', Helvetica, sans-serif;
+  padding: 1em;
+  margin: 0 auto;
+  max-width: 1000px;
+  font-size: 14pt;
+  line-height: 1.5;
+  color: #000;
+  background: #fff;
+
+  h1, h2, h3, h4, h5 {
+    font-family: 'Raleway', Helvetica, sans-serif;
+    font-weight: 700;
+    color: #000;
+  }
+
+  a {
+    color: #880000;
+    font-weight: 700;
+    text-decoration: none;
+    &:hover { text-decoration: none; }
+  }
+
+  p { text-align: justify; }
+
+  // Override theme's font-weight: 300
+  p, ul, ol, dl { font-weight: normal; }
+}
+
+.course-topbar {
+  margin-bottom: 1.5em;
+}
+
+.course-back-link {
+  font-family: 'Raleway', Helvetica, sans-serif;
+  font-size: 0.8em;
+  font-weight: 700;
+  color: #880000;
+  text-decoration: none;
+  &:hover { text-decoration: underline; }
+}
+
+.course-content {
+  padding-bottom: 2em;
+}
+
+.course-footer {
+  position: static;
+  width: auto;
+  float: none;
+  border-top: thin solid;
+  padding-top: 0.5em;
+  font-size: 0.75em;
+  color: #666;
+}
+
+// Schedule table — mirroring reference page #lecture-schedule
+.schedule-table {
+  border-top: medium solid;
+  border-bottom: medium solid;
+  border-collapse: collapse;
+  width: 100%;
+
+  td:first-child, th:first-child {
+    max-width: 130px;
+    white-space: normal;
+  }
+
+  td, th {
+    padding: 0.5em;
+    border-bottom: thin solid;
+    vertical-align: middle;
+  }
+
+  thead th {
+    font-family: 'Raleway', Helvetica, sans-serif;
+    font-weight: 700;
+  }
+
+  .week-cell {
+    font-family: 'Raleway', Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .day-cell, .date-cell {
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  .lecture-cell, .lab-cell {
+    vertical-align: top;
+
+    div + div {
+      margin-top: 0.3em;
+    }
+  }
+
+
+  tr.assignment td {
+    background-color: rgba(204, 51, 102, 0.5);
+  }
+
+  .assignment-cell {
+    font-weight: bold;
+  }
+}

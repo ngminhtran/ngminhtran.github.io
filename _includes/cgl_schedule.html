@@ -1,0 +1,84 @@
+<table class="schedule-table" id="lecture-schedule">
+  <thead>
+    <tr>
+      <th scope="col">Week</th>
+      <th scope="col" class="day-cell">Day</th>
+      <th scope="col">Date</th>
+      <th scope="col">Lecture (mornings)</th>
+      <th scope="col">Lab (afternoons)</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for week in site.data.cgl_schedule %}
+      {% assign week_rowspan = week.days | size %}
+      {% for day in week.days %}
+        {% if day.assignment or day.extra_credit %}
+          {% assign week_rowspan = week_rowspan | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+
+      {% for day in week.days %}
+        <tr>
+          {% if forloop.first %}
+          <th scope="row" rowspan="{{ week_rowspan }}" class="week-cell">{{ week.week }}</th>
+          {% endif %}
+          <td class="day-cell">{{ day.day }}{% if day.zoom %} <em>(<a href="TBD">Zoom</a>)</em>{% endif %}</td>
+          <td class="date-cell">{{ day.date }}</td>
+          <td class="lecture-cell">
+            {% assign normalized_lecture = day.lecture | replace: "; ", "|||" %}
+            {% assign lecture_parts = normalized_lecture | split: "|||" %}
+            {% if lecture_parts.size > 1 %}
+              {% for part in lecture_parts %}
+                {% assign part_segments = part | split: ": " %}
+                {% assign part_label = part_segments | first %}
+                {% if part_label contains "Part" %}
+                  {% assign part_content = part_segments | slice: 1, 99 | join: ": " %}
+                  <div><u>{{ part_label }}:</u> {{ part_content | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
+                {% else %}
+                  <div>{{ part | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
+                {% endif %}
+              {% endfor %}
+            {% if day.guest-speaker %}
+              <div style="height:10px; width:100%; clear:both;"></div>
+              <div><span style="font-weight:bold;">Guest Speaker: </span>{{ day.guest-speaker | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
+            {% endif %}
+            {% else %}
+              {% assign single_segments = lecture_parts | first | split: ": " %}
+              {% assign single_label = single_segments | first %}
+              {% if single_label contains "Part" %}
+                {% assign single_content = single_segments | slice: 1, 99 | join: ": " %}
+                <div><u>{{ single_label }}:</u> {{ single_content | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
+              {% else %}
+                {{ day.lecture | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+              {% endif %}
+            {% endif %}
+          </td>
+          <td class="lab-cell">
+            {% assign lab_parts = day.lab | split: "; " %}
+            {% if lab_parts.size > 1 %}
+              {% for part in lab_parts %}
+                <div>{{ part | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
+              {% endfor %}
+            {% else %}
+              {{ day.lab | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+            {% endif %}
+          </td>
+        </tr>
+        {% if day.assignment %}
+        <tr class="assignment">
+          <td></td>
+          <td></td>
+          <td colspan="2" class="assignment-cell">[Assignment Due] {{ day.assignment }}</td>
+        </tr>
+        {% endif %}
+        {% if day.extra_credit %}
+        <tr class="assignment">
+          <td></td>
+          <td></td>
+          <td colspan="2" class="assignment-cell">[Extra Credit] {{ day.extra_credit }}</td>
+        </tr>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </tbody>
+</table>
