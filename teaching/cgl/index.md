@@ -20,6 +20,8 @@ description: "Summer 2026 Pre-College course at the University of Chicago explor
 
 **Classroom:** Ryerson Phys Lab 255 (lectures), Ryserson Phys Lab 277 (labs)
 
+**Full Syllabus:** [Located here](https://docs.google.com/document/d/1x1Ena5Uiz0puukxkZD2O9U4gY5ytsS0468zLASVwBXY)
+
 ---
 
 ## Course Description

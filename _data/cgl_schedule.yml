@@ -2,8 +2,8 @@
   days:
     - day: "Tue"
       date: "7/7"
-      lecture: "Part 1: Introduction & What is an Educational Game?; Part 2:  Introducing Python, Variables and Statements"
-      lab: "Coding Practice (individual); Design Exercise: Defining your mythical users (individual)"
+      lecture: "Part 1: Introduction & What is an Educational Game?; Part 2:  Introducing Python, Variables and Statements [[slides](LINK)]"
+      lab: "[Coding Practice](link) (individual); Design Exercise: Defining your mythical users (individual)"
     - day: "Wed"
       date: "7/8"
       lecture: "Part 1: Constructivism & Flow Theory; Part 2: Functions and Conditionals"
@@ -25,13 +25,13 @@
       date: "7/13"
       zoom: true
       lecture: "Part 1: Game Elements (cont.) & Game Design Frameworks; Part 2: Classes and Objects"
-      guest-speaker: "Erica Goodwin (University of Chicago)"
+      guest-speaker: "Erica Goodwin (UChicago)"
       lab: "Coding Practice (individual); Open work time (group)"
     - day: "Tue"
       date: "7/14"
       zoom: true
       lecture: "Part 1: Motivation & Assessment; Part 2: [Quander](https://www.canonlab.org/quander)"
-      guest-speaker: "David G. Maldonado (University of Chicago)"
+      guest-speaker: "David G. Maldonado (UChicago)"
       lab: "Coding Practice (individual); Open work time (group)"
       assignment: "Project Milestone #3: Basic Game Design"
     - day: "Wed"
