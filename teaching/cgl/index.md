@@ -8,7 +8,7 @@ description: "Summer 2026 Pre-College course at the University of Chicago explor
 
 #### University of Chicago Pre-College Program &mdash; Summer 2026
 
-Welcome to Games For Learning!
+Welcome to Computer Games For Learning!
 
 *Please the **[full course syllabus](/teaching/cgl/syllabus)** carefully at least once to make sure you understand the course logistics and expectations!*
 
