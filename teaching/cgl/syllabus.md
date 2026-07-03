@@ -55,7 +55,7 @@ By the end of this course, you will be able to:
 ---
 
 ## Materials
-You are *not required* to purchase a textbook for this course. All readings, programming exercises and solutions, and project milestone instructions will be available on the course website and [Canvas]() (for non-public materials).
+You are *not required* to purchase a textbook for this course. All readings, programming exercises and solutions, and project milestone instructions will be available on the course website.
 
 While the course materials posted will be sufficient for this course, I recommend you get access to a copy of the following resources. You should be able to do so for free online \- ways to do so are attached to each individual resource.
 
