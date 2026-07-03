@@ -4,33 +4,31 @@ title: "Creating Computer Games for Learning"
 description: "Summer 2026 Pre-College course at the University of Chicago exploring game design and learning theory through Python."
 ---
 
-# Creating Computer Games for Learning
+# CMSC 19929: Creating Computer Games for Learning
 
-**University of Chicago Pre-College Program** &mdash; Summer 2026
+#### University of Chicago Pre-College Program &mdash; Summer 2026
 
-**Instructor:** Minh Tran ([ngminhtran@uchicago.edu](mailto:ngminhtran@uchicago.edu))
+Welcome to Games For Learning!
 
-**TA:** Han Dang
+*Please the **[full course syllabus](/teaching/cgl/syllabus)** carefully at least once to make sure you understand the course logistics and expectations!*
 
-**Office Hours:** By appointment, email the instructor (preferred) or talk to the instructor after class.
+**Classroom:**
+- Time: July 7–23, 2026, Monday through Friday (9AM - 3PM)
+- Location: [Ryerson Phys Lab](https://maps.app.goo.gl/Giz2o3G63bWrL5AV8) (Rm 255 - lectures / Rm 277 - labs).
 
-**Dates:** July 7&ndash;23, 2026, 9AM - 3PM daily
 
-**Format:** In-person (some sessions via [Zoom](TBD))
+**Asynchronous Communication:**
+- All course materials will be released on this website, following the course schedule below.
+- All assignments will be submitted and graded via **Gradescopes** (link TBA).
+- General course communication will occur on **Piazza** (link TBA).
+	- This is the best way to ask any and all questions related to this course. We will check Piazza at least three times per day and try to address your questions as soon as possible.
+	- For any general or clarification questions that don't leak information about your solution, please ask as a public question.
+	- For any questions they may leak your solution or contain sensitive information that you do not wish other students or graders to see, you are free to email me. Please see **[ course syllabus](/teaching/cgl/syllabus)** for some notes on sending email.
 
-**Classroom:** Ryerson Phys Lab 255 (lectures), Ryserson Phys Lab 277 (labs)
 
-**Full Syllabus:** [Located here](/teaching/cgl/syllabus)
+## Course Schedule
 
----
-
-## Course Description
-
-As the computing field continues to advance, interdisciplinary applications of computer science are of increasing importance. This class focuses on a fun approach to the challenge and necessity of designing for human users: Creating Computer Games for Learning. We will explore concepts in educational theories and game design principles and learn game programming in Python. At the end of this class, we create our own educational computer games, where incorporating personal experiences and interests will be highly encouraged. During this process, we will also meet active researchers in the field to discuss what they are using computer games to teach and how their games are effectively teaching it.
-
----
-
-## Lecture Schedule
+*Please note that the current courese schedule is tentative and subjected to changes!*
 
 {% include cgl_schedule.html %}
 
@@ -40,8 +38,8 @@ As the computing field continues to advance, interdisciplinary applications of c
 
 | Milestone | Description | Due |
 |-----------|-------------|-----|
-| #1 | Finalize group members | Wed 7/8 |
-| #2 | Target Users and Learning Content | Fri 7/10 |
-| #3 | Basic Game Design | Tue 7/14 |
-| #4 | Final Game Design | Mon 7/20 |
-| #5 *(Extra Credit)* | MVP Implementation | Thu 7/23 |
+| #0 *(Non-graded)* | Finalize group members | Wed 7/8 |
+| #1 | Target Users and Learning Content | Fri 7/10 |
+| #2 | Basic Game Design | Tue 7/14 |
+| #3 | Final Game Design | Mon 7/20 |
+| #4 *(Extra Credit)* | MVP Implementation | Thu 7/23 |

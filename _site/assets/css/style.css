@@ -591,7 +591,7 @@ body.course-page {
   padding: 1em;
   margin: 0 auto;
   max-width: 1000px;
-  font-size: 14pt;
+  font-size: 12pt;
   line-height: 1.5;
   color: #000;
   background: #fff;
@@ -602,9 +602,9 @@ body.course-page h1, body.course-page h2, body.course-page h3, body.course-page 
   color: #000;
 }
 body.course-page a {
-  color: #880000;
+  color: #758e50;
   font-weight: 700;
-  text-decoration: none;
+  text-decoration: underline;
 }
 body.course-page a:hover {
   text-decoration: none;
@@ -624,8 +624,8 @@ body.course-page p, body.course-page ul, body.course-page ol, body.course-page d
   font-family: "Raleway", Helvetica, sans-serif;
   font-size: 0.8em;
   font-weight: 700;
-  color: #880000;
-  text-decoration: none;
+  color: #758e50;
+  text-decoration: underline;
 }
 .course-back-link:hover {
   text-decoration: underline;
@@ -680,7 +680,7 @@ body.course-page p, body.course-page ul, body.course-page ol, body.course-page d
   margin-top: 0.3em;
 }
 .schedule-table tr.assignment td {
-  background-color: rgba(204, 51, 102, 0.5);
+  background-color: #c8d2b9;
 }
 .schedule-table .assignment-cell {
   font-weight: bold;
