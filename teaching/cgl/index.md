@@ -32,8 +32,6 @@ Welcome to Computer Games For Learning!
 
 {% include cgl_schedule.html %}
 
----
-
 ## Milestones
 
 | Milestone | Description | Due |
@@ -43,3 +41,8 @@ Welcome to Computer Games For Learning!
 | #2 | Basic Game Design | Tue 7/14 |
 | #3 | Final Game Design | Mon 7/20 |
 | #4 *(Extra Credit)* | MVP Implementation | Thu 7/23 |
+
+## Resources
+
+[Guide to Installing Python and PyCharm](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1268/resources/pycharm.html)
+* Follow the instructions for your operating system
