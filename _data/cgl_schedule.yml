@@ -37,7 +37,7 @@
       zoom: true
       lecture: "Part 1: Introducing Pygame; Part 2: Inclusive Design"
       guest-speaker: "Aayushi Dangol ([foundry10](https://www.foundry10.org/))"
-      lab: "[Coding practice (indiv.)](/assets/courses/csmc19929/6_pygame.zip); Open work time (group)"
+      lab: "[Coding practice (indiv.)](/assets/courses/csmc19929/6_pygame.zip): PyGame Warmup; Open work time (group)"
     - day: "Thu"
       date: "7/16"
       lecture: "Exploring Pygame"
