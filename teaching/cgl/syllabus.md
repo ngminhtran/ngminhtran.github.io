@@ -24,7 +24,7 @@ description: "Summer 2026 Pre-College course at the University of Chicago explor
 
 
 **Asynchronous Communication:**
-- All assignments will be submitted and grades will be released via **Gradescopes** (link TBA)
+- All assignments will be submitted and grades will be released via **Gradescope** (link TBA)
 - General course communication will occur on **Piazza** (link TBA).
   - This is the best way to ask any and all questions related to this course. We will check Piazza at least three times per day and try to address your questions as soon as possible.
   - For any general or clarification questions that don't leak information about your solution, please ask as a public question.
@@ -73,9 +73,9 @@ Each student’s final grade will be computed according to the following formula
 
 * **In-class participation -- 20%**
 
-* **"Homework" -- 20%**
+* **Individual "homework" -- 20%**
   * pre-class reading assignments 10%
-  * in-lab mini programming and design exercises 10%
+  * in-lab programming exercises 10%
 * **Game design group project -- 60%**
   * milestones 45% (15% each)
   * flash talk 5%
@@ -109,9 +109,7 @@ Using AI for reading and programming assignments is \*not allowed\*. These are l
 
 ### Late Policy
 
-Given the short duration of the source, all deadlines are final and late work will *not* be accepted. All assignments are due on the specified date and time listed on Gradescopes.
-
-However, I understand that genuine, unforeseen emergency situations may arise. In such exceptional cases, you must notify me via email prior to the assignment deadline to discuss your options. Documentation may be required.
+Given the short duration of the course, late work will \*not\* be accepted. All assignments are due on the specified date and time listed on Gradescope. However, I understand that genuine, unforeseen emergency situations may arise. In such exceptional cases, you must notify me via email prior to the assignment deadline to discuss your options. Documentation may be required.
 
 ---
 

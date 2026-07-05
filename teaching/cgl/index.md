@@ -19,7 +19,7 @@ Welcome to Computer Games For Learning!
 
 **Asynchronous Communication:**
 - All course materials will be released on this website, following the course schedule below.
-- All assignments will be submitted and graded via **Gradescopes** (link TBA).
+- All assignments will be submitted and graded via **Gradescope** (link TBA).
 - General course communication will occur on **Piazza** (link TBA).
 	- This is the best way to ask any and all questions related to this course. We will check Piazza at least three times per day and try to address your questions as soon as possible.
 	- For any general or clarification questions that don't leak information about your solution, please ask as a public question.
@@ -28,7 +28,7 @@ Welcome to Computer Games For Learning!
 
 ## Course Schedule
 
-*Please note that the current courese schedule is tentative and subjected to changes!*
+*Please note that the current daily schedule is tentative and subjected to changes!*
 
 {% include cgl_schedule.html %}
 
