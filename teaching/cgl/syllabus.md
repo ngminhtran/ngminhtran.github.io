@@ -56,7 +56,7 @@ By the end of this course, you will be able to:
 ---
 
 ## Materials
-You are *not required* to purchase a textbook for this course. All readings, programming exercises and solutions, and project milestone instructions will be available on the course website.
+You are *not required* to purchase a textbook for this course. All readings, coding exercises and solutions, and project milestone instructions will be available on the course website.
 
 While the course materials posted will be sufficient for this course, I recommend you get access to a copy of the following resources. You should be able to do so for free online \- ways to do so are attached to each individual resource.
 
@@ -74,17 +74,18 @@ Each student’s final grade will be computed according to the following formula
 
 * **In-class participation -- 20%**
 
-* **Individual "homework" -- 20%**
-  * pre-class reading assignments 10%
-  * in-lab programming exercises 10%
+* **Individual "homework" assignments -- 20%**
+  * pre-lecture reading responses 10%
+  * in-lab coding/design exercises 10%
 * **Game design group project -- 60%**
-  * milestones 45% (15% each)
+  * milestones 42% (14% each)
   * flash talk 5%
-  * final presentation 10% (avg. score)
-* (Extra credit) MVP implementation -- up to 5%
+  * final presentation 10%
+  * peer evaluation 3%
+* **(Extra credit) MVP implementation -- up to 5%**
 
 
-This course is graded on a beneficial curve. You are guaranteed not to get lower than straight scale (A\>=93%, A- (90-\>93), B+ (97-\>90), etc.). The lowest 2 in-class participation scores and reading scores will be dropped.
+This course is graded on a beneficial curve. You are guaranteed not to get lower than straight scale (A\>=93%, A- (90-\>93), B+ (97-\>90), etc.). The lowest coding exercise score will be dropped.
 
 ***Important Note:** Due to the group project, a student's final grade in the course can be no more than one letter grade higher than their performance on individually graded portions. For example, if a student has a C on individually-graded aspects of the course, then they are eligible to earn no better than a B when taking into account the group project.*
 
@@ -106,7 +107,7 @@ We will enforce the following rule as well: Any student who is under suspicion o
 
 Generative AI is, by construction, a next-word predictor trained on the Internet, and it is well known to “hallucinate” or make up facts because it is merely writing words that resemble ones that might be used to answer a particular question. It is not \*trying\* to be factual. You MUST specify for what purpose you used AI if you used it (e.g. to revise a paragraph, brainstorm ideas related to X, etc.). If you turn in material that is clearly factually incorrect, you will receive no credit for that section. The presence of AI has made it too easy to create factually incorrect, nicely-written text, so you will not receive credit for turning in something that is of the same quality / has the same characteristics as something produced by AI.
 
-Using AI for reading and programming assignments is \*not allowed\*. These are lightweight assignments designed to help you learn\! They will not be challenging at all, and time will be allocated during the lab sessions for help seeking on these assignments.
+Using AI for reading and coding exercises is \*not allowed\*. These are lightweight assignments designed to help you learn\! They will not be challenging at all, and time will be allocated during the lab sessions for help seeking on these assignments.
 
 ### Late Policy
 

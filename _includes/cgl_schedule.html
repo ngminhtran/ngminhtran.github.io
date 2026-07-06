@@ -25,33 +25,54 @@
           <td class="day-cell">{{ day.day }}{% if day.zoom %} <em>(<a href="TBD">Zoom</a>)</em>{% endif %}</td>
           <td class="date-cell">{{ day.date }}</td>
           <td class="lecture-cell">
-            {% assign normalized_lecture = day.lecture | replace: "; ", "|||" %}
-            {% assign lecture_parts = normalized_lecture | split: "|||" %}
-            {% if lecture_parts.size > 1 %}
-              {% for part in lecture_parts %}
-                {% assign part_segments = part | split: ": " %}
-                {% assign part_label = part_segments | first %}
-                {% if part_label contains "Part" %}
-                  {% assign part_content = part_segments | slice: 1, 99 | join: ": " %}
-                  <div><u>{{ part_label }}:</u> {{ part_content | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
-                {% else %}
-                  <div>{{ part | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
-                {% endif %}
+            
+            {% if day.lectures %}
+              {% for part in day.lectures %}
+                <details style="margin-bottom: 5px;">
+                  <summary style="cursor: pointer;">
+                    {% assign title_segments = part.title | split: ": " %}
+                    {% assign title_label = title_segments | first %}
+                    
+                    {% if title_label contains "Part" %}
+                      {% assign title_content = title_segments | slice: 1, 99 | join: ": " %}
+                      <u>{{ title_label }}:</u> {{ title_content | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+                    {% else %}
+                      {{ part.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+                    {% endif %}
+                  </summary>
+                  
+                  <div style="padding-left: 20px; font-size: 0.9em; margin-top: 5px;">
+                    {% if part.slides %}
+                      <div><a href="{{ part.slide }}" target="_blank">slides</a></div>
+                    {% endif %}
+                    {% if part.reading %}
+                      <div>reading: 
+                        {% if part.reading == "" %}
+                          N/A
+                        {% else %}
+                          {% for item in part.reading %}
+                            <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>{% if item.note %} {{ item.note }}{% endif %}{% unless forloop.last %}, {% endunless %}
+                          {% endfor %}
+                        {% endif %}
+                      </div>
+                    {% endif %}
+                    {% if part.slides == nil and part.reading == nil %}
+                      <div style="color: #666; font-style: italic;">Materials TBA</div>
+                    {% endif %}
+                  </div>
+                </details>
               {% endfor %}
+            {% elsif day.lecture_note %}
+              <div style="margin-bottom: 5px;">{{ day.lecture_note | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
+            {% elsif day.lecture %}
+              <div style="margin-bottom: 5px;">{{ day.lecture | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
+            {% endif %}
+
             {% if day.guest-speaker %}
               <div style="height:10px; width:100%; clear:both;"></div>
-              <div><span style="font-weight:bold;">Guest Speaker: </span>{{ day.guest-speaker | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
+              <div><span style="font-weight:bold;">Guest Lecturer: </span>{{ day.guest-speaker | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
             {% endif %}
-            {% else %}
-              {% assign single_segments = lecture_parts | first | split: ": " %}
-              {% assign single_label = single_segments | first %}
-              {% if single_label contains "Part" %}
-                {% assign single_content = single_segments | slice: 1, 99 | join: ": " %}
-                <div><u>{{ single_label }}:</u> {{ single_content | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>
-              {% else %}
-                {{ day.lecture | markdownify | remove: '<p>' | remove: '</p>' | strip }}
-              {% endif %}
-            {% endif %}
+
           </td>
           <td class="lab-cell">
             {% assign lab_parts = day.lab | split: "; " %}
