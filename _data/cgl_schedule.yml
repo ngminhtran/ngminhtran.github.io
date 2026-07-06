@@ -19,7 +19,7 @@
               url: "https://www.youtube.com/watch?v=y3HOLXdvtaE"
             - title: "R1"
               url: "https://dl.acm.org/doi/pdf/10.1145/3287324.3287396"
-              note: "(abstract, intro, related work, Fig. 1)"
+              note: "(abstract, intro, Table 1, Fig. 1)"
             - title: "I1"
               url: "http://everydaycomputing.org/tools/trajectory/ahZzfmV2ZXJ5ZGF5Y29tcHV0aW5nb3JncjELEgpUcmFqZWN0b3J5IgpUUkFKRUNUT1JZDAsSClRyYWplY3RvcnkYgICAgKCOgQoM/visualization/"
         - title: "Part 2: Strings and Lists"
