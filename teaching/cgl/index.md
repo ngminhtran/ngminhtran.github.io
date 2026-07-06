@@ -19,16 +19,17 @@ Welcome to Computer Games For Learning!
 
 **Asynchronous Communication:**
 - All course materials will be released on this website, following the course schedule below.
-- All assignments will be submitted and graded via **Gradescope** (link TBA).
-- General course communication will occur on **Piazza** (link TBA).
-	- This is the best way to ask any and all questions related to this course. We will check Piazza at least three times per day and try to address your questions as soon as possible.
+- All assignments will be submitted and graded via **[Gradescope](https://www.gradescope.com/courses/1334080)**.
+- General course communication will occur on **[Piazza](https://piazza.com/class/mr7af36z9ts360)**.
+	- This is the best way to ask any and all questions related to this course. I encourage you to post your questions on Piazza instead of emailing me because you will be more likely to get faster responses (from either me or the TA) and other students may also benefit from your questions. We will check Piazza at least 3 times per day and try to address your questions as soon as possible.
 	- For any general or clarification questions that don't leak information about your solution, please ask as a public question.
-	- For any questions they may leak your solution or contain sensitive information that you do not wish other students or graders to see, you are free to email me. Please see **[ course syllabus](/teaching/cgl/syllabus)** for some notes on sending email.
+	- For any questions they may leak your solution, please ask as a private question.
+	- For any sensitive communications that you do not wish other students or the TA to see, you are free to email me. Please see **[ course syllabus](/teaching/cgl/syllabus)** for some notes on sending email.
 
 
-## Course Schedule
+## Course Schedule (subject to change)
 
-*Please note that the current daily schedule is tentative and subjected to changes!*
+<sub>*Coding practice = invidual execises; Design warmup = group exercises; Open work time = time allocated in class to work on game design project milestones*</sub>
 
 {% include cgl_schedule.html %}
 
@@ -37,12 +38,11 @@ Welcome to Computer Games For Learning!
 | Milestone | Description | Due |
 |-----------|-------------|-----|
 | #0 *(Non-graded)* | Finalize group members | Wed 7/8 |
-| #1 | Target Users and Learning Content | Fri 7/10 |
+| #1 | Target Users and Learning Content | Sat 7/11 |
 | #2 | Basic Game Design | Tue 7/14 |
-| #3 | Final Game Design | Mon 7/20 |
+| #3 | Final Game Design | Sat 7/18 |
 | #4 *(Extra Credit)* | MVP Implementation | Thu 7/23 |
 
 ## Resources
 
-[Guide to Installing Python and PyCharm](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1268/resources/pycharm.html)
-* Follow the instructions for your operating system
+[Guide to Installing Python and PyCharm](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1268/resources/pycharm.html) (follow the instructions for your operating system)

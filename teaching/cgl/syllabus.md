@@ -24,11 +24,12 @@ description: "Summer 2026 Pre-College course at the University of Chicago explor
 
 
 **Asynchronous Communication:**
-- All assignments will be submitted and grades will be released via **Gradescope** (link TBA)
-- General course communication will occur on **Piazza** (link TBA).
-  - This is the best way to ask any and all questions related to this course. We will check Piazza at least three times per day and try to address your questions as soon as possible.
+- All assignments will be submitted and grades will be released via **[Gradescope](https://www.gradescope.com/courses/1334080)**.
+- General course communication will occur on **[Piazza](https://piazza.com/class/mr7af36z9ts360)**.
+  - This is the best way to ask any and all questions related to this course. I encourage you to post your questions on Piazza instead of emailing me because you will be more likely to get faster responses (from either me or the TA) and other students may also benefit from your questions. We will check Piazza at least 3 times per day and try to address your questions as soon as possible.
   - For any general or clarification questions that don't leak information about your solution, please ask as a public question.
-  - For any questions they may leak your solution or contain sensitive information that you do not wish other students or graders to see, you are free to email me.
+  - For any questions they may leak your solution, please ask as a private question.
+  - For any sensitive communications that you do not wish other students or the TA to see, you are free to email me. 
 
 ---
 
