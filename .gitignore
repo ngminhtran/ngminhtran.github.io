@@ -1,3 +1,4 @@
 *.py
 *.png
 .DS_Store
+_site
