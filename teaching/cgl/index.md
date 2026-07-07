@@ -47,4 +47,6 @@ Welcome to Computer Games For Learning!
 
 ## Resources
 
-[Guide to Installing Python and PyCharm](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1268/resources/pycharm.html) (follow the instructions for your operating system)
+Recommended IDE for Pygame:
+- PyCharm: [Guide to Installing Python and PyCharm](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1268/resources/pycharm.html) (follow the instructions for your operating system)
+- [VSCode](https://code.visualstudio.com/) (You can follow the same instructions in the link above to install Python 3 before downloading setting up VSCode)
