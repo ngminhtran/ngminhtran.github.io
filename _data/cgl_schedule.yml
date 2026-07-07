@@ -15,13 +15,11 @@
       lectures:
         - title: "Part 1: Scaffolding and Learning Trajectories"
           reading: 
-            - title: "V1"
+            - title: "ZPD"
               url: "https://www.youtube.com/watch?v=y3HOLXdvtaE"
-            - title: "R1"
+            - title: "LT"
               url: "https://dl.acm.org/doi/pdf/10.1145/3287324.3287396"
               note: "(abstract, intro, Table 1, Fig. 1)"
-            - title: "I1"
-              url: "http://everydaycomputing.org/tools/trajectory/ahZzfmV2ZXJ5ZGF5Y29tcHV0aW5nb3JncjELEgpUcmFqZWN0b3J5IgpUUkFKRUNUT1JZDAsSClRyYWplY3RvcnkYgICAgKCOgQoM/visualization/"
         - title: "Part 2: Strings and Lists"
           # slides: ""
       lab: "Design warmup; Coding practice"
@@ -31,6 +29,13 @@
       date: "7/9"
       lectures:
         - title: "Part 1: Constructivism & Flow Theory"
+          reading:
+            - title: "Const-1"
+              url: "https://www.thirteen.org/edonline/concept2class/constructivism/index.html"
+            - title: "Const-2"
+              url: "https://www.thirteen.org/edonline/concept2class/constructivism/implementation_sub1.html"
+            - title: "FT"
+              url: "https://dl.acm.org/doi/epdf/10.1145/1232743.1232769"
         - title: "Part 2: Conditionals and Iteration"
       lab: "Coding practice; Open work time: Milestone #1"
       

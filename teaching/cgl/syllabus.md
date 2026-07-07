@@ -85,7 +85,7 @@ Each student’s final grade will be computed according to the following formula
 * **(Extra credit) MVP implementation -- up to 5%**
 
 
-This course is graded on a beneficial curve. You are guaranteed not to get lower than straight scale (A\>=93%, A- (90-\>93), B+ (97-\>90), etc.). The lowest coding exercise score will be dropped.
+This course is graded on a beneficial curve. You are guaranteed not to get lower than straight scale (A\>=93%, A- (90-\>93), B+ (97-\>90), etc.). The **two lowest** individual reading/coding scores will be dropped.
 
 ***Important Note:** Due to the group project, a student's final grade in the course can be no more than one letter grade higher than their performance on individually graded portions. For example, if a student has a C on individually-graded aspects of the course, then they are eligible to earn no better than a B when taking into account the group project.*
 

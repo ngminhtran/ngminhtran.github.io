@@ -29,7 +29,9 @@ Welcome to Computer Games For Learning!
 
 ## Course Schedule (subject to change)
 
-<sub>*Coding practice = invidual execises; Design warmup = group exercises; Open work time = time allocated in class to work on game design project milestones*</sub>
+- *Coding practice = invidual; Design warmup = group; Open work time = time allocated in class to work on project milestones.*
+- *Expand lecture titles to see reading list for each day. Make sure to submit reading responses on Gradescope before each lecture.*
+- *Lecture slides will be uploaded by the end of day every day; coding practice solutions will be uploaded after each assignment due date.*
 
 {% include cgl_schedule.html %}
 
