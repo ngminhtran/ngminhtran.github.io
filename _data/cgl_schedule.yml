@@ -14,6 +14,7 @@
       date: "7/8"
       lectures:
         - title: "Part 1: Scaffolding and Learning Trajectories"
+          slides: "/assets/courses/csmc19929/lec_slides/W1bGame_LearningTrajectory.pdf"
           reading: 
             - title: "ZPD"
               url: "https://www.youtube.com/watch?v=y3HOLXdvtaE"
@@ -21,7 +22,7 @@
               url: "https://dl.acm.org/doi/pdf/10.1145/3287324.3287396"
               note: "(abstract, intro, Table 1, Fig. 1)"
         - title: "Part 2: Strings and Lists"
-          # slides: ""
+          slides: "/assets/courses/csmc19929/lec_slides/W1bPython_StringsLists.pdf"
       lab: "[Design warmup](/assets/courses/csmc19929/design_learning_trajectory.pdf){:target='_blank'}; [Coding practice](/assets/courses/csmc19929/2strings_lists.zip)"
       assignment: "Project Milestone #0: Finalize group members (Wed 7/8)"
 
