@@ -4,10 +4,10 @@
       date: "7/7"
       lectures: 
         - title: "Part 1: Introduction & What is an Educational Game?"
-          # slides: ""
+          slides: "/assets/courses/csmc19929/lec_slides/W1aGame_Intro.pdf"
           reading: ""
         - title: "Part 2: Python Basics"
-          # slides: ""
+          slides: "/assets/courses/csmc19929/lec_slides/W1aPython_Basics.pdf"
       lab: "[Design warmup](/assets/courses/csmc19929/design_mythical_users.pdf){:target='_blank'}; [Coding practice](/assets/courses/csmc19929/1basics.zip)"
     
     - day: "Wed"
@@ -22,7 +22,7 @@
               note: "(abstract, intro, Table 1, Fig. 1)"
         - title: "Part 2: Strings and Lists"
           # slides: ""
-      lab: "Design warmup; Coding practice"
+      lab: "Design warmup; [Coding practice](/assets/courses/csmc19929/2strings_lists.zip)"
       assignment: "Project Milestone #0: Finalize group members (Wed 7/8)"
 
     - day: "Thu"
