@@ -22,7 +22,7 @@
               note: "(abstract, intro, Table 1, Fig. 1)"
         - title: "Part 2: Strings and Lists"
           # slides: ""
-      lab: "Design warmup; [Coding practice](/assets/courses/csmc19929/2strings_lists.zip)"
+      lab: "[Design warmup](/assets/courses/csmc19929/design_learning_trajectory.pdf){:target='_blank'}; [Coding practice](/assets/courses/csmc19929/2strings_lists.zip)"
       assignment: "Project Milestone #0: Finalize group members (Wed 7/8)"
 
     - day: "Thu"
