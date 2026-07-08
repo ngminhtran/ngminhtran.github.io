@@ -43,7 +43,7 @@
                   
                   <div style="padding-left: 20px; font-size: 0.9em; margin-top: 5px;">
                     {% if part.slides %}
-                      <div><a href="{{ part.slides }}" target="_blank">slides</a></div>
+                      <div><a href="{{ part.slides }}" target="_blank">lecture slides</a></div>
                     {% endif %}
                     {% if part.reading %}
                       <div>reading: 
@@ -57,7 +57,7 @@
                       </div>
                     {% endif %}
                     {% if part.slides == nil and part.reading == nil %}
-                      <div style="color: #666; font-style: italic;">Materials TBA</div>
+                      <div style="color: #666; font-style: italic;">Lecture slides TBA</div>
                     {% endif %}
                   </div>
                 </details>
