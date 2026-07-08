@@ -89,14 +89,18 @@
         <tr class="assignment">
           <td></td>
           <td></td>
-          <td colspan="2" class="assignment-cell">[Assignment Due] {{ day.assignment }}</td>
+          <td colspan="2" class="assignment-cell">
+            [Assignment Due] {{ day.assignment | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+          </td>
         </tr>
         {% endif %}
         {% if day.extra_credit %}
         <tr class="assignment">
           <td></td>
           <td></td>
-          <td colspan="2" class="assignment-cell">[Extra Credit] {{ day.extra_credit }}</td>
+          <td colspan="2" class="assignment-cell">
+            [Extra Credit] {{ day.extra_credit | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+          </td>
         </tr>
         {% endif %}
       {% endfor %}

@@ -39,7 +39,7 @@ Welcome to Computer Games For Learning!
 
 | Milestone | Description | Due |
 |-----------|-------------|-----|
-| #0 *(Non-graded)* | Finalize group members | Wed 7/8 |
+| #0 *(Non-graded)* | [Finalize group members](https://docs.google.com/spreadsheets/d/1MSMg4Xup1ORAyFa39v3dBGM5s95rhKxeF6S9wC46kdM/edit?usp=sharing){:target='_blank'} | Wed 7/8 |
 | #1 | Target Users and Learning Content | Sat 7/11 |
 | #2 | Basic Game Design | Tue 7/14 |
 | #3 | Final Game Design | Sat 7/18 |
