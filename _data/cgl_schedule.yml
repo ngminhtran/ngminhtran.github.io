@@ -49,7 +49,7 @@
           reading:
             - title: "IGDPD"
               url: "https://www.sugarcanesama.com/wp-content/uploads/2022/05/Introduction-to-Game-Design-Pr-Jeremy-Gibson-B.pdf"
-              note: "(Chapter 2; pages 57-66)"
+              note: "(Chapter 2; no Gradescope reading questions)"
         - title: "Part 2: Functions"
       lab: "Open work time: [Milestone #1](/assets/courses/csmc19929/Milestone1_TargetUsersLearningContent.pdf){:target='_blank'} (cont.); [Coding practice](/assets/courses/csmc19929/4functions.zip)"
       assignment: "Project Milestone #1: [Target Users and Learning Content](/assets/courses/csmc19929/Milestone1_TargetUsersLearningContent.pdf){:target='_blank'} (Sat 7/11)"
@@ -67,10 +67,9 @@
 
     - day: "Tue"
       date: "7/14"
+      # lecture: "Exploring Pygame" # non-collapsable lecture title
       lectures:
-        - title: "Collapsing Qubits: A Quantum Themed Card Game"
-          reading: ""
-      guest-speaker: "[David Gonzalez-Maldonado](https://dagm.io/){:target='_blank'}"
+        - title: "Exploring Pygame"
       lab: "Open work time:  Milestone #2 (cont.)"
       assignment: "Project Milestone #2: Basic Game Design (Tue 7/14)"
 
@@ -86,9 +85,10 @@
 
     - day: "Thu"
       date: "7/16"
-      # lecture: "Exploring Pygame" # non-collapsable lecture title
       lectures:
-        - title: "Exploring Pygame"
+        - title: "Collapsing Qubits: A Quantum Themed Card Game"
+          reading: ""
+      guest-speaker: "[David Gonzalez-Maldonado](https://dagm.io/){:target='_blank'}"
       # lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Bubble Pop; Open work time: Milestone #3"
       lab: "Open work time: Milestone #3 Flash Talk"
 
