@@ -51,6 +51,7 @@
               url: "https://www.sugarcanesama.com/wp-content/uploads/2022/05/Introduction-to-Game-Design-Pr-Jeremy-Gibson-B.pdf"
               note: "(Chapter 2; no Gradescope reading questions)"
         - title: "Part 2: Functions"
+          slides: "/assets/courses/csmc19929/lec_slides/W1dPython_Functions.pdf"
       lab: "Open work time: [Milestone #1](/assets/courses/csmc19929/Milestone1_TargetUsersLearningContent.pdf){:target='_blank'} (cont.); [Coding practice](/assets/courses/csmc19929/4functions.zip)"
       assignment: "Project Milestone #1: [Target Users and Learning Content](/assets/courses/csmc19929/Milestone1_TargetUsersLearningContent.pdf){:target='_blank'} (Sat 7/11)"
 
