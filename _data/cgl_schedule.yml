@@ -43,7 +43,11 @@
     - day: "Fri"
       date: "7/10"
       lectures:
-        - title: "Part 1: Game Elements"
+        - title: "Part 1: Game Analysis Frameworks"
+          reading:
+            - title: "IGDPD"
+              url: "https://www.sugarcanesama.com/wp-content/uploads/2022/05/Introduction-to-Game-Design-Pr-Jeremy-Gibson-B.pdf"
+              note: "(Chapter 2; pages 57-66)"
         - title: "Part 2: Functions"
       lab: "Open work time: [Milestone #1](/assets/courses/csmc19929/Milestone1_TargetUsersLearningContent.pdf){:target='_blank'} (cont.); [Coding practice](/assets/courses/csmc19929/4functions.zip)"
       assignment: "Project Milestone #1: [Target Users and Learning Content](/assets/courses/csmc19929/Milestone1_TargetUsersLearningContent.pdf){:target='_blank'} (Sat 7/11)"
@@ -54,14 +58,16 @@
       date: "7/13"
       lectures:
         - title: "Part 1: Classes and Objects"
-        - title: "Part 2: Game Design Frameworks"
+        - title: "Part 2: Game Analysis Frameworks (cont.)"
       guest-speaker: "[Erica Goodwin](https://ericagoodwin.github.io/){:target='_blank'}"
       # lab: "[Coding practice](/assets/courses/csmc19929/5oop.zip); Open work time: Milestone #2"
       lab: "Coding practice; Open work time: Milestone #2"
 
     - day: "Tue"
       date: "7/14"
-      lecture: "Quantum Computing through Games"
+      lectures:
+        - title: "Collapsing Qubits: A Quantum Themed Card Game"
+          reading: ""
       guest-speaker: "[David Gonzalez-Maldonado](https://dagm.io/){:target='_blank'}"
       lab: "Open work time:  Milestone #2 (cont.)"
       assignment: "Project Milestone #2: Basic Game Design (Tue 7/14)"
