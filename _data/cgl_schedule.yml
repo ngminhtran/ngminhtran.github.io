@@ -30,6 +30,7 @@
       date: "7/9"
       lectures:
         - title: "Part 1: Constructivism & Flow Theory"
+          slides: "/assets/courses/csmc19929/lec_slides/W1cGame_FlowTheory.pdf"
           reading:
             - title: "Const-1"
               url: "https://www.thirteen.org/edonline/concept2class/constructivism/index.html"
