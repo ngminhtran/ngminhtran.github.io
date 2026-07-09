@@ -38,15 +38,15 @@
             - title: "FT"
               url: "https://dl.acm.org/doi/epdf/10.1145/1232743.1232769"
         - title: "Part 2: Conditionals and Iteration"
-      lab: "Coding practice; Open work time: Milestone #1"
+      lab: "Open work time: [Milestone #1](/assets/courses/csmc19929/Milestone1_TargetUsersLearningContent.pdf){:target='_blank'}; [Coding practice](/assets/courses/csmc19929/3conditionals_iterations.zip)"
       
     - day: "Fri"
       date: "7/10"
       lectures:
         - title: "Part 1: Game Elements"
         - title: "Part 2: Functions"
-      lab: "Coding practice; Open work time: Milestone #1 (cont.)"
-      assignment: "Project Milestone #1: Target Users and Learning Content (Sat 7/11)"
+      lab: "Open work time: [Milestone #1](/assets/courses/csmc19929/Milestone1_TargetUsersLearningContent.pdf){:target='_blank'} (cont.); [Coding practice](/assets/courses/csmc19929/4functions.zip)"
+      assignment: "Project Milestone #1: [Target Users and Learning Content](/assets/courses/csmc19929/Milestone1_TargetUsersLearningContent.pdf){:target='_blank'} (Sat 7/11)"
 
 - week: "Week 2"
   days:
