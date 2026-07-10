@@ -40,19 +40,20 @@
               url: "https://dl.acm.org/doi/epdf/10.1145/1232743.1232769"
         - title: "Part 2: Conditionals and Iteration"
           slides: "/assets/courses/csmc19929/lec_slides/W1cPython_ConditionalsIteration.pdf"
-      lab: "Open work time: [Milestone #1](/assets/courses/csmc19929/Milestone1_TargetUsersLearningContent.pdf){:target='_blank'}; [Coding practice](/assets/courses/csmc19929/3conditionals_iterations.zip)"
+      lab: "Open work time; [Coding practice](/assets/courses/csmc19929/3conditionals_iterations.zip)"
       
     - day: "Fri"
       date: "7/10"
       lectures:
         - title: "Part 1: Game Analysis Frameworks"
+          slides: "/assets/courses/csmc19929/lec_slides/W1dGame_GameAnalysisFrameworks.pdf"
           reading:
             - title: "IGDPD"
               url: "https://www.sugarcanesama.com/wp-content/uploads/2022/05/Introduction-to-Game-Design-Pr-Jeremy-Gibson-B.pdf"
-              note: "(Chapter 2; no Gradescope reading questions)"
+              note: "(Chapter 2; no Gradescope questions)"
         - title: "Part 2: Functions"
           slides: "/assets/courses/csmc19929/lec_slides/W1dPython_Functions.pdf"
-      lab: "Open work time: [Milestone #1](/assets/courses/csmc19929/Milestone1_TargetUsersLearningContent.pdf){:target='_blank'} (cont.); [Coding practice](/assets/courses/csmc19929/4functions.zip)"
+      lab: "Open work time; [Coding practice](/assets/courses/csmc19929/4functions.zip)"
       assignment: "Project Milestone #1: [Target Users and Learning Content](/assets/courses/csmc19929/Milestone1_TargetUsersLearningContent.pdf){:target='_blank'} (Sat 7/11)"
 
 - week: "Week 2"
@@ -64,14 +65,14 @@
         - title: "Part 2: Player Types and Motivation"
       guest-speaker: "[Erica Goodwin](https://ericagoodwin.github.io/){:target='_blank'}"
       # lab: "[Coding practice](/assets/courses/csmc19929/5oop.zip); Open work time: Milestone #2"
-      lab: "Coding practice; Open work time: Milestone #2"
+      lab: "Coding practice; Open work time"
 
     - day: "Tue"
       date: "7/14"
       # lecture: "Exploring Pygame" # non-collapsable lecture title
       lectures:
         - title: "Exploring Pygame"
-      lab: "Open work time:  Milestone #2 (cont.)"
+      lab: "Open work time"
       assignment: "Project Milestone #2: Basic Game Design (Tue 7/14)"
 
     - day: "Wed"
@@ -82,7 +83,7 @@
         - title: "Part 2: Designing Interactive Systems to Support<br>Children’s Critical and Reflective Engagement with AI"
       guest-speaker: "[Erica Goodwin](https://ericagoodwin.github.io/){:target='_blank'}, [Aayushi Dangol](https://adango26.github.io/){:target='_blank'}"
       # lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Pygame warmup; Open work time: Milestone #3"
-      lab: "Coding practice; Open work time: Milestone #3"
+      lab: "Coding practice; Open work time"
 
     - day: "Thu"
       date: "7/16"
@@ -91,12 +92,12 @@
           reading: ""
       guest-speaker: "[David Gonzalez-Maldonado](https://dagm.io/){:target='_blank'}"
       # lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Bubble Pop; Open work time: Milestone #3"
-      lab: "Open work time: Milestone #3 Flash Talk"
+      lab: "Open work time"
 
     - day: "Fri"
       date: "7/17"
       lecture: "(Students) --- Flash Talk and Peer Review Workshop"
-      lab: "Field Trip: [UChicago Weston Game Lab](https://www.logancenter.uchicago.edu/mediaartsdesign/wgl)"
+      lab: "Field Trip: [Weston Game Lab](https://www.logancenter.uchicago.edu/mediaartsdesign/wgl)"
       assignment: "Project Milestone #3: Final Game Design & MVP Description (Sat 7/18)"
 
 
@@ -107,22 +108,22 @@
       lectures:
         - title: "AI in Design and Education"
       # lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Memory Tiles; Open work time"
-      lab: "Coding practice; Open work time: Milestone #4 or Presentation"
+      lab: "Coding practice; Open work time"
 
     - day: "Tue"
       date: "7/21"
       lectures:
         - title: "AI in Games"
       # lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Maze Navigator; Open work time"
-      lab: "Coding practice; Open work time: Milestone #4 or Presentation"
+      lab: "Coding practice; Open work time"
 
     - day: "Wed"
       date: "7/22"
       lecture: "(Students) --- Project Presentation (\"Final Exam\")"
-      lab: "Open work time: Milestone #4 (optional)"
+      lab: "Open work time"
 
     - day: "Thu"
       date: "7/23"
       lecture: "(Movie Time!) --- TBA"
-      lab: "Open work time (optional)"
+      lab: "Open work time"
       extra_credit: "Project Milestone #4: MVP Implementation (7/23)"
