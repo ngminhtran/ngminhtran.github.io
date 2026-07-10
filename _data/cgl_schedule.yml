@@ -61,7 +61,7 @@
       date: "7/13"
       lectures:
         - title: "Part 1: Classes and Objects"
-        - title: "Part 2: Game Analysis Frameworks (cont.)"
+        - title: "Part 2: Player Types and Motivation"
       guest-speaker: "[Erica Goodwin](https://ericagoodwin.github.io/){:target='_blank'}"
       # lab: "[Coding practice](/assets/courses/csmc19929/5oop.zip); Open work time: Milestone #2"
       lab: "Coding practice; Open work time: Milestone #2"
