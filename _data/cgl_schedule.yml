@@ -84,7 +84,7 @@
       date: "7/15"
       # zoom: true
       lectures:
-        - title: "Part 1: Inclusive Design"
+        - title: "Part 1: Inclusive Design, UDL"
         - title: "Part 2: Designing Interactive Systems to Support<br>Children’s Critical and Reflective Engagement with AI"
       guest-speaker: "[Erica Goodwin](https://ericagoodwin.github.io/){:target='_blank'}, [Aayushi Dangol](https://adango26.github.io/){:target='_blank'}"
       lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Pygame warmup; Open work time"
