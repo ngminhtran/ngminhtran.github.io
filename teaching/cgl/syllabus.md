@@ -16,7 +16,7 @@ description: "Summer 2026 Pre-College course at the University of Chicago explor
 
 **Office Hours:** By appointment (Come talk to me after class or [send me an email](mailto:ngminhtran@uchicago.edu)!)
 
-**TA:** Han Dang
+**TA:** Han Dang ([ghanle18@@uchicago.edu](ghanle18@@uchicago.edu))
 
 **Classroom:**
 - Time: July 7–23, 2026, Monday through Friday (9AM - 3PM)

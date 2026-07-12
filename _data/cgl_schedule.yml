@@ -62,18 +62,19 @@
       date: "7/13"
       lectures:
         - title: "Part 1: Classes and Objects"
+          slides: "/assets/courses/csmc19929/lec_slides/W2aPython_OOP.pdf"
         - title: "Part 2: Player Types and Motivation"
       guest-speaker: "[Erica Goodwin](https://ericagoodwin.github.io/){:target='_blank'}"
-      # lab: "[Coding practice](/assets/courses/csmc19929/5oop.zip); Open work time: Milestone #2"
-      lab: "Coding practice; Open work time"
+      lab: "[Coding practice](/assets/courses/csmc19929/5oop.zip); Open work time"
 
     - day: "Tue"
       date: "7/14"
       # lecture: "Exploring Pygame" # non-collapsable lecture title
       lectures:
         - title: "Exploring Pygame"
+          slides: "/assets/courses/csmc19929/lec_slides/W2bPython_Pygame.pdf"
       lab: "Open work time"
-      assignment: "Project Milestone #2: Basic Game Design (Tue 7/14)"
+      assignment: "Project Milestone #2: [Basic Game Design](/assets/courses/csmc19929/Milestone2_BasicGameDesign.pdf){:target='_blank'} (Tue 7/14)"
 
     - day: "Wed"
       date: "7/15"
@@ -82,8 +83,7 @@
         - title: "Part 1: Inclusive Design"
         - title: "Part 2: Designing Interactive Systems to Support<br>Children’s Critical and Reflective Engagement with AI"
       guest-speaker: "[Erica Goodwin](https://ericagoodwin.github.io/){:target='_blank'}, [Aayushi Dangol](https://adango26.github.io/){:target='_blank'}"
-      # lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Pygame warmup; Open work time: Milestone #3"
-      lab: "Coding practice; Open work time"
+      lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Pygame warmup; Open work time"
 
     - day: "Thu"
       date: "7/16"
@@ -91,12 +91,11 @@
         - title: "Collapsing Qubits: A Quantum Themed Card Game"
           reading: ""
       guest-speaker: "[David Gonzalez-Maldonado](https://dagm.io/){:target='_blank'}"
-      # lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Bubble Pop; Open work time: Milestone #3"
-      lab: "Open work time"
+      lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Mini game (choose 1); Open work time"
 
     - day: "Fri"
       date: "7/17"
-      lecture: "(Students) --- Flash Talk and Peer Review Workshop"
+      lecture: "(Students) --- [Flash Talk](/assets/courses/csmc19929/ProjectPresentation_FlashTalk.pdf){:target='_blank'} and Peer Review Workshop"
       lab: "Field Trip: [Weston Game Lab](https://www.logancenter.uchicago.edu/mediaartsdesign/wgl)"
       assignment: "Project Milestone #3: Final Game Design & MVP Description (Sat 7/18)"
 
@@ -107,15 +106,13 @@
       date: "7/20"
       lectures:
         - title: "AI in Design and Education"
-      # lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Memory Tiles; Open work time"
-      lab: "Coding practice; Open work time"
+      lab: "Open work time"
 
     - day: "Tue"
       date: "7/21"
       lectures:
         - title: "AI in Games"
-      # lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Maze Navigator; Open work time"
-      lab: "Coding practice; Open work time"
+      lab: "Open work time"
 
     - day: "Wed"
       date: "7/22"
