@@ -63,7 +63,11 @@
       lectures:
         - title: "Part 1: Classes and Objects"
           slides: "/assets/courses/csmc19929/lec_slides/W2aPython_OOP.pdf"
-        - title: "Part 2: Player Types and Motivation"
+        - title: "Part 2: Motivation, Player Types"
+          reading:
+            - title: "Player Types Handout"
+              url: "https://minhtran.xyz/assets/courses/csmc19929/PlayerTypesHandout.pdf"
+              note: "(no Gradescope questions)"
       guest-speaker: "[Erica Goodwin](https://ericagoodwin.github.io/){:target='_blank'}"
       lab: "[Coding practice](/assets/courses/csmc19929/5oop.zip); Open work time"
 
