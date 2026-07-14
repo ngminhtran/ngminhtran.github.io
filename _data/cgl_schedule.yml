@@ -64,6 +64,7 @@
         - title: "Part 1: Classes and Objects"
           slides: "/assets/courses/csmc19929/lec_slides/W2aPython_OOP.pdf"
         - title: "Part 2: Motivation, Player Types"
+          slides: "/assets/courses/csmc19929/lec_slides/W2aGame_MotivationPlayerTypes.pdf"
           reading:
             - title: "Player Types Handout"
               url: "https://minhtran.xyz/assets/courses/csmc19929/PlayerTypesHandout.pdf"
@@ -85,6 +86,7 @@
       # zoom: true
       lectures:
         - title: "Part 1: Inclusive Design, UDL"
+          reading: ""
         - title: "Part 2: Designing Interactive Systems to Support<br>Children’s Critical and Reflective Engagement with AI"
       guest-speaker: "[Erica Goodwin](https://ericagoodwin.github.io/){:target='_blank'}, [Aayushi Dangol](https://adango26.github.io/){:target='_blank'}"
       lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Pygame warmup; Open work time"
