@@ -102,9 +102,7 @@
     - day: "Fri"
       date: "7/17"
       lecture: "(Students) --- [Flash Talk](/assets/courses/csmc19929/ProjectPresentation_FlashTalk.pdf){:target='_blank'} and Peer Review Workshop"
-      lab: "Field Trip: [Weston Game Lab](https://www.logancenter.uchicago.edu/mediaartsdesign/wgl)"
-      assignment: "Project Milestone #3: Final Game Design & MVP Description (Sat 7/18)"
-
+      lab: "Field Trip: [Weston Game Lab](https://www.logancenter.uchicago.edu/mediaartsdesign/wgl); [Coding Practice](/assets/courses/csmc19929/8pygame_continued.zip): Pygame (cont.)"
 
 - week: "Week 3"
   days:
@@ -112,21 +110,24 @@
       date: "7/20"
       lectures:
         - title: "AI in Design and Education"
+          reading: ""
       lab: "Open work time"
+      assignment: "Project Milestone #3: Final Game Design & MVP Description (Mon 7/20)"
 
     - day: "Tue"
       date: "7/21"
       lectures:
         - title: "AI in Games"
+          reading: ""
       lab: "Open work time"
 
     - day: "Wed"
       date: "7/22"
-      lecture: "(Students) --- Project Presentation (\"Final Exam\")"
+      lecture: "(Students) --- Mock Final Presentation and Peer Feedback"
       lab: "Open work time"
 
     - day: "Thu"
       date: "7/23"
-      lecture: "(Movie Time!) --- TBA"
-      lab: "Open work time"
-      extra_credit: "Project Milestone #4: MVP Implementation (7/23)"
+      lecture: "(Students) --- Final Presentation (\"Final Exam\")"
+      lab: "Movie Time and Bonding Activities"
+      extra_credit: "Project Milestone #4: MVP Implementation (Thu 7/23)"
