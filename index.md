@@ -9,7 +9,7 @@ logo_note: true
 
 My research explores how to leverage community knowledge to develop educational resources and tools that help make computer science instruction at the K-12 level more effective and engaging, while preserving teacher professional practices and optimizing their workload.
 
-In my ongoing work, I conduct design-based implementation research with elementary and middle school teachers across the U.S. to (1) understand their challenges and approaches to design, develop, and implement customized CS instruction, (2) integrate teachers' knowledge to design and develop an AI-powered tool for customizing a Scratch customization, and (3) investigate the impacts of such tool on teachers' practices and classroom dynamics.
+In my ongoing work, I conduct design-based implementation research with elementary and middle school teachers across the U.S. to (1) understand their challenges and approaches to design, develop, and implement customized CS instruction, (2) integrate teachers' knowledge to design and develop an AI-powered tool to support teachers customizing a Scratch-based CS customization, and (3) investigate the impacts of such tool on teachers' practices and classroom dynamics.
 
 * * *
 ## Selected Publications 
@@ -19,6 +19,7 @@ In my ongoing work, I conduct design-based implementation research with elementa
 [Conjuror: A GenAI-powered Tool to Support Teachers Customizing a Scratch Curriculum](https://dl.acm.org/doi/10.1145/3803400.3809362){:target="_blank"}\
 <sub>**Minh Tran\***, David Gonzalez-Maldonado\*, Diana Franklin</sub>\
 <sup>*ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE), 2026*</sup>
+<sup>**<span style="color:#c36f48">Best Paper Nomination</span>**</sup>
 
 [Can GPT Help? Supporting Teachers to Brainstorm Customized Instructional Scratch Projects](https://dl.acm.org/doi/10.1145/3641554.3701858){:target="_blank"}\
 <sub>**Minh Tran**, David Gonzalez-Maldonado, Elaine Zhou, Diana Franklin</sub>\
