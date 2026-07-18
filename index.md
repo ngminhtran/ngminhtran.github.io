@@ -16,6 +16,10 @@ In my ongoing work, I conduct design-based implementation research with elementa
 
 ##### More publications on [Google Scholar](https://scholar.google.com/citations?user=elG0WcsAAAAJ&hl=en&oi=ao){:target="_blank"}<br>\* denotes equal contribution
 
+<!-- [Scaffolding Teachers to Draw on Students' Cultures and Lived Experiences to Customize Computing Resources with "About My Students" Collage Activity]()\
+<sub>**Minh Tran**, Erica Goodwin, Elisabeth Kasner, Jen Palmer, David Weintrop, Diana Franklin</sub>\
+<sup>*[Accepted to] ACM Virtual Global Computing Education Conference (SIGCSE-V), 2026*</sup> -->
+
 [Conjuror: A GenAI-powered Tool to Support Teachers Customizing a Scratch Curriculum](https://dl.acm.org/doi/10.1145/3803400.3809362){:target="_blank"}\
 <sub>**Minh Tran\***, David Gonzalez-Maldonado\*, Diana Franklin</sub>\
 <sup>*ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE), 2026*</sup>
