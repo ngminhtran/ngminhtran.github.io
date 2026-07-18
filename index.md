@@ -9,7 +9,7 @@ logo_note: true
 
 My research explores how to leverage community knowledge to develop educational resources and tools that help make computer science instruction at the K-12 level more effective and engaging, while preserving teacher professional practices and optimizing their workload.
 
-In my ongoing work, I conduct design-based implementation research with elementary and middle school teachers across the U.S. to (1) understand their challenges and approaches to design, develop, and implement customized CS instruction, (2) integrate teachers' knowledge to design and develop an AI-powered tool to support teachers customizing a Scratch-based CS customization, and (3) investigate the impacts of such tool on teachers' practices and classroom dynamics.
+In my ongoing work, I conduct design-based implementation research with elementary and middle school teachers across the U.S. to (1) understand their challenges and approaches to design, develop, and implement customized CS instruction, (2) integrate teachers' knowledge to design and develop an AI-powered tool to support teachers in customizing a Scratch-based CS customization, and (3) investigate the impacts of such tool on teachers' practices and classroom dynamics.
 
 * * *
 ## Selected Publications 
