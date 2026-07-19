@@ -87,6 +87,7 @@
       lectures:
         - title: "Part 1: Inclusive Design, UDL"
           reading: ""
+          slides: "/assets/courses/csmc19929/lec_slides/W2cGame_InclusiveDesignUDL.pdf"
         - title: "Part 2: Designing Interactive Systems to Support<br>Children’s Critical and Reflective Engagement with AI"
       guest-speaker: "[Erica Goodwin](https://ericagoodwin.github.io/){:target='_blank'}, [Aayushi Dangol](https://adango26.github.io/){:target='_blank'}"
       lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Pygame warmup; Open work time"
@@ -95,13 +96,17 @@
       date: "7/16"
       lectures:
         - title: "Collapsing Qubits: A Quantum Themed Card Game"
-          reading: ""
+          reading:
+            - title: "Collapsing Qubits website"
+              url: "https://www.canonlab.org/collapsingqubits"
       guest-speaker: "[David Gonzalez-Maldonado](https://dagm.io/){:target='_blank'}"
       lab: "[Coding practice](/assets/courses/csmc19929/7pygame.zip): Mini game (choose 1); Open work time"
 
     - day: "Fri"
       date: "7/17"
-      lecture: "(Students) --- [Flash Talk](/assets/courses/csmc19929/ProjectPresentation_FlashTalk.pdf){:target='_blank'} and Peer Review Workshop"
+      lectures:
+        - title: "(Students) --- [Flash Talk](/assets/courses/csmc19929/ProjectPresentation_FlashTalk.pdf){:target='_blank'} and Peer Review Workshop"
+          slides: "/assets/courses/csmc19929/lec_slides/W2e_FlashTalkPeerReview.pdf"
       lab: "Field Trip: [Weston Game Lab](https://www.logancenter.uchicago.edu/mediaartsdesign/wgl); [Coding Practice](/assets/courses/csmc19929/8pygame_continued.zip): Pygame (cont.)"
 
 - week: "Week 3"
@@ -109,7 +114,7 @@
     - day: "Mon"
       date: "7/20"
       lectures:
-        - title: "AI in Design and Education"
+        - title: "Assessment of Learning"
           reading: ""
       lab: "Open work time"
       assignment: "Project Milestone #3: [Final Game Design & MVP Description](/assets/courses/csmc19929/Milestone3_FinalGameDesignMVPDescription.pdf){:target='_blank'} (Mon 7/20)"
