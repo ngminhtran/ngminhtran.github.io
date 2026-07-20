@@ -116,6 +116,7 @@
       lectures:
         - title: "Assessment of Learning"
           reading: ""
+          slides: "/assets/courses/csmc19929/lec_slides/W3aGame_Assessment.pdf"
       lab: "Open work time"
       assignment: "Project Milestone #3: [Final Game Design & MVP Description](/assets/courses/csmc19929/Milestone3_FinalGameDesignMVPDescription.pdf){:target='_blank'} (Mon 7/20)"
 
