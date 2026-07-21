@@ -125,6 +125,7 @@
       lectures:
         - title: "AI in Games"
           reading: ""
+          slides: "/assets/courses/csmc19929/lec_slides/W3bGames_AI.pdf"
       lab: "Open work time"
 
     - day: "Wed"
