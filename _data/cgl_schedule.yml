@@ -134,6 +134,6 @@
 
     - day: "Thu"
       date: "7/23"
-      lecture: "(Students) --- Final Presentation (\"Final Exam\")"
+      lecture: "(Students) --- [Final Presentation](/assets/courses/csmc19929/ProjectFinalPresentation.pdf){:target='_blank'} (\"Final Exam\")"
       lab: "Movie Time and Bonding Activities"
       extra_credit: "Project Milestone #4: MVP Implementation (Thu 7/23)"
