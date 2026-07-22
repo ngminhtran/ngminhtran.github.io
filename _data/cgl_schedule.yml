@@ -130,7 +130,10 @@
 
     - day: "Wed"
       date: "7/22"
-      lecture: "(Students) --- Mock Final Presentation and Peer Feedback"
+      lecture: ""
+      lectures:
+        - title: "(Students) --- Mock Final Presentation and [Peer Feedback](/assets/courses/csmc19929/MockPresentation_PeerFeedbackForm.pdf){:target='_blank'}"
+          slides: "/assets/courses/csmc19929/lec_slides/W3c_MockPresentation.pdf"
       lab: "Open work time"
 
     - day: "Thu"
