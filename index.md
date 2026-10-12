@@ -5,27 +5,41 @@ logo: /assets/img/profile.jpg
 logo_note: true
 ---
 
-## Research
+I am a Computer Science PhD student at the University of Chicago, advised by [Diana Franklin](https://people.cs.uchicago.edu/~dmfranklin/){:target="_blank"}. Previously, I completed a dual degree in Computer Science and Psychology from the University of Arizona. Before college, I grew up in a small moutainous town in Northwest Vietnam.
 
-My research explores how to leverage community knowledge to develop resources and tools that help make computer science instruction in K-12 classrooms more effective and engaging for young children, while empowering teacher professional growth and optimizing their workload.
+My research **creates instructional technologies and resources for computer science**, that enable an academically supportive *and* personally meaningful environment for a wider range of learners. I envision a world where every student has access to computer science instruction and is given a chance to form a personal connection to it.
 
-In my ongoing work, I conduct design-based implementation research with elementary and middle school teachers across the U.S. to (1) understand their challenges and approaches to design, develop, and implement customized CS instruction, (2) integrate teachers' knowledge to design and develop an AI-powered tool to support teachers in creating localized materials for a Scratch-based CS curriculum, and (3) investigate the impacts of such tool on teachers' practices and classroom dynamics.
+My PhD work has focused on achieving this vision at the K-12 level. I work with in-service computer science educators to help them customize structured curricula to better reflect the interests, characteristics, and experiences of the students they serve. I have identified challenges teachers face in customization and co-designed with them scaffolds to support this process, built an interactive AI-powered tool that teachers can use to create customized materials for a block-based programming curriculum, and investigated how this teacher-AI collaboration shapes curriculum design and teaching practices in real classrooms.
+
+##### *Note: You may find me as Ngoc Minh Tran somewhere on the Internet -- yes, that is my full name! But my first name is Minh -- pronounced "[Mink](https://en.wikipedia.org/wiki/Mink){:target="_blank"}" with a silent "k".*
 
 * * *
-## Selected Publications 
+## Publications 
 
-##### More publications on [Google Scholar](https://scholar.google.com/citations?user=elG0WcsAAAAJ&hl=en&oi=ao){:target="_blank"}<br>\* denotes equal contribution
+##### \* denotes equal contribution
 
-[Conjuror: A GenAI-powered Tool to Support Teachers Customizing a Scratch Curriculum](https://dl.acm.org/doi/10.1145/3803400.3809362){:target="_blank"}\
+[Teachers' Experiences Customizing Scratch Instructional Resources with an Interactive AI-Powered Tool](/assets/papers/ConjurorTeacherInterviews_SIGCSE_2027.pdf){:target="_blank"}\
+<sub>**Minh Tran**, Nitzan Koren, David Gonzalez-Maldonado, David Weintrop, Diana Franklin</sub>\
+<sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2027 (to appear)*</sup>
+
+[Finding Goldilocks: Exploring Teachers' Approaches to Create Customized Materials for Use-Modify Scratch Activities](/assets/papers/HarmonizingGodilocks_SIGCSE_2027.pdf){:target="_blank"}\
+<sub>**Minh Tran**, Nitzan Koren, Elana Blinder, Jen Palmer, David Weintrop, Diana Franklin</sub>\
+<sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2027 (to appear)*</sup>
+
+[Scaffolding Teachers to Draw on Students' Cultures and Lived Experiences to Customize Computing Resources with "About My Students" Collage Activity](/assets/papers/HarmonizingCollages_SIGCSEV_2026.pdf){:target="_blank"}\
+<sub>**Minh Tran**, Erica Goodwin, J. Elisabeth Kasner, Jen Palmer, David Weintrop, Diana Franklin</sub>\
+<sup>*ACM Virtual Global Computing Education Conference (SIGCSE Virtual), 2026 (to appear)*</sup>
+
+[Conjuror: A GenAI-powered Tool to Support Teachers Customizing a Scratch Curriculum](/assets/papers/ConjurorTool_ITiCSE_2026.pdf){:target="_blank"}\
 <sub>**Minh Tran\***, David Gonzalez-Maldonado\*, Diana Franklin</sub>\
 <sup>*ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE), 2026*</sup>\
-<sup>**<span style="color:#c36f48">Best Paper Nomination</span>**</sup>
+<sup>**<span style="color:#964108">Best Paper Nomination</span>**</sup>
 
-[Can GPT Help? Supporting Teachers to Brainstorm Customized Instructional Scratch Projects](https://dl.acm.org/doi/10.1145/3641554.3701858){:target="_blank"}\
+[Can GPT Help? Supporting Teachers to Brainstorm Customized Instructional Scratch Projects](/assets/papers/CanGPTHelp_SIGCSE_2025.pdf){:target="_blank"}\
 <sub>**Minh Tran**, David Gonzalez-Maldonado, Elaine Zhou, Diana Franklin</sub>\
 <sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2025*</sup>
 
-[Harmonizing Scratch Encore: Scaffolding K-8 Teachers in Customizing Culturally Responsive Computing Materials](https://dl.acm.org/doi/10.1145/3626252.3630756){:target="_blank"}\
+[Harmonizing Scratch Encore: Scaffolding K-8 Teachers in Customizing Culturally Responsive Computing Materials](/assets/papers/HarmonizingChallenges_SIGCSE_2024.pdf){:target="_blank"}\
 <sub>**Minh Tran**, Heather Killen, Jen Palmer, David Weintrop, Diana Franklin</sub>\
 <sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2024*</sup>
 
@@ -52,8 +66,6 @@ Object-Oriented Programming and Design\
 <sub>Position: Tutor</sub>\
 <sup>*Ironwood Ridge High School (Spring 2020)*</sup> -->
 
-<!-- * * *
-## Teacher Resources (to be added) -->
 
-* * *
-[more about me](./about.html)
+<!-- * * * -->
+<!-- [more about me](./about.html) -->
