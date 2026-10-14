@@ -5,11 +5,11 @@ logo: /assets/img/profile.jpg
 logo_note: true
 ---
 
-I am a Computer Science PhD student at the University of Chicago, advised by [Diana Franklin](https://people.cs.uchicago.edu/~dmfranklin/){:target="_blank"}. Previously, I completed a dual degree in Computer Science and Psychology from the University of Arizona. Before college, I grew up in a small moutainous town in Northwest Vietnam.
+I am a Computer Science PhD student at the University of Chicago, advised by Professor [Diana Franklin](https://people.cs.uchicago.edu/~dmfranklin/){:target="_blank"}. Previously, I received dual Bachelor's degrees in Computer Science and Psychology from the University of Arizona. Before college, I grew up in a small town in Northwest Vietnam.
 
-My research **creates instructional technologies and resources for computer science**, that enable an academically supportive *and* personally meaningful environment for a wider range of learners. I envision a world where every student has access to computer science instruction and is given a chance to form a personal connection to it.
+My research interests are in Computer Science Education. I **design, develop, and evaluate new instructional technologies and resources for computer science**, with the long-term goal of enabling a personalized, academically supportive environment for a wider range of learners.
 
-My PhD work has focused on achieving this vision at the K-12 level. I work with in-service computer science educators to help them customize structured curricula to better reflect the interests, characteristics, and experiences of the students they serve. I have identified challenges teachers face in customization and co-designed with them scaffolds to support this process, built an interactive AI-powered tool that teachers can use to create customized materials for a block-based programming curriculum, and investigated how this teacher-AI collaboration shapes curriculum design and teaching practices in real classrooms.
+My PhD work has focused on achieving this goal at the K-12 level. I work with in-service educators to help them create and implement customized, culturally responsive computing instruction in real classrooms, through scaffolding, professional development, and AI tools.
 
 ##### *Note: You may find me as Ngoc Minh Tran somewhere on the Internet -- yes, that is my full name! But my first name is Minh -- pronounced "[Mink](https://en.wikipedia.org/wiki/Mink){:target="_blank"}" with a silent "k".*
 
@@ -47,19 +47,19 @@ My PhD work has focused on achieving this vision at the K-12 level. I work with 
 ## Teaching
 
 [Creating Computer Games for Learning](/teaching/cgl/)\
-<sub>Position: Instructor of Record</sub>\
+<sub>Instructor of Record</sub>\
 <sup>*University of Chicago (Summer 2026, Pre-College Program)*</sup>
 
 Computers for Learning\
-<sub>Position: Teaching Assistant | Instructor: Diana Franklin</sub>\
+<sub>Teaching Assistant</sub>\
 <sup>*University of Chicago (Fall 2025)*</sup>
 
 Inclusive Technology\
-<sub>Position: Teaching Assistant | Instructor: Marshini Chetty</sub>\
+<sub>Teaching Assistant</sub>\
 <sup>*University of Chicago (Winter 2023)*</sup>
 
 Object-Oriented Programming and Design\
-<sub>Position: Teaching Assistant | Instructor: Jonathan Misurda</sub>\
+<sub>Teaching Assistant</sub>\
 <sup>*University of Arizona (Fall 2020; Spring 2021; Fall 2021)*</sup>
 
 <!-- Algebra I/II, Geometry, Pre-Calculus\
