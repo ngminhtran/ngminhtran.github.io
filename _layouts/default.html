@@ -17,18 +17,20 @@
     <div class="wrapper">
       <header>
         <h1><a class="title" href="{{ "/" | absolute_url }}" >{{ site.title | default: site.github.repository_name }}</a></h1>
-        {% if page.logo %}
-          <img  id="logo" src="{{ page.logo | relative_url }}" alt="Logo"/>
-          {% if page.logo_note %}
-            <!-- <p id="logo_note" align="right"><small><sup>made with <a href="https://scratch.mit.edu" target="_blank">Scratch</a></sup></small></p> -->
+        <div class="profile">
+          {% if page.logo %}
+            <img  id="logo" src="{{ page.logo | relative_url }}" alt="Logo" />
+            {% if page.logo_note %}
+              <!-- <p id="logo_note" align="right"><small><sup>made with <a href="https://scratch.mit.edu" target="_blank">Scratch</a></sup></small></p> -->
+            {% endif %}
           {% endif %}
-        {% endif %}
-        
-        <p class="view" align="center">
-          <a class="space" href="https://scholar.google.com/citations?user=elG0WcsAAAAJ&hl=en&oi=ao" target="_blank">Scholar</a> &emsp;
-          <a class="space" href="/assets/app_materials/cv_minhtran.pdf" target="_blank">CV</a> &emsp;
-          <a class="space" href="mailto:ngminhtran@uchicago.edu" target="_blank">Contact</a>
-        </p>
+
+          <p class="view" align="center">
+            <a class="space" href="https://scholar.google.com/citations?user=elG0WcsAAAAJ&hl=en&oi=ao" target="_blank">Scholar</a> &emsp;
+            <a class="space" href="/assets/app_materials/cv_minhtran.pdf" target="_blank">CV</a> &emsp;
+            <a class="space" href="mailto:ngminhtran@uchicago.edu" target="_blank">Contact</a>
+          </p>
+        </div>
 
       </header>
       <section>

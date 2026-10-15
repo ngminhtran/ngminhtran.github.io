@@ -24,7 +24,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:24px;
+  font-size:30px;
 }
 
 h2 {
@@ -46,6 +46,7 @@ a {
 
 a.title {
   text-decoration:none;
+  color:#333333;
 }
 
 a:hover, a:focus {
@@ -53,7 +54,7 @@ a:hover, a:focus {
 }
 
 a:hover.title, a:focus.title {
-  text-decoration:underline;
+  text-decoration:none;
 }
 
 a small {
@@ -69,7 +70,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  width:870px;
   margin:0 auto;
 }
 
@@ -118,7 +119,25 @@ img {
 }
 
 #logo:hover ~ #logo_note {
-  opacity: 0;
+  opacity:0;
+}
+
+#logo {
+  margin-bottom:10px;
+}
+
+.profile {
+  width:180px;
+  max-width:100%;
+}
+
+.profile #logo {
+  display:block;
+  width:100%;
+}
+
+.profile p.view {
+  text-align:center;
 }
 
 header {
@@ -265,6 +284,10 @@ footer {
 
   header ul, header p.view {
     position:static;
+  }
+
+  .profile {
+    margin:0 auto;
   }
 
   pre, code {
