@@ -22,7 +22,7 @@ My PhD work has focused on achieving this goal at the K-12 level. I work with in
 <sub>**Minh Tran**, Nitzan Koren, David Gonzalez-Maldonado, David Weintrop, Diana Franklin</sub>\
 <sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2027 (to appear)*</sup>
 
-[Finding Goldilocks: Exploring Teachers' Approaches to Create Customized Materials for Use-Modify Scratch Activities](/assets/papers/HarmonizingGodilocks_SIGCSE_2027.pdf){:target="_blank"}\
+[Finding Goldilocks: Exploring Teachers' Approaches to Create Customized Materials for Use-Modify Scratch Activities](/assets/papers/HarmonizingGoldilocks_SIGCSE_2027.pdf){:target="_blank"}\
 <sub>**Minh Tran**, Nitzan Koren, Elana Blinder, Jen Palmer, David Weintrop, Diana Franklin</sub>\
 <sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2027 (to appear)*</sup>
 
