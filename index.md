@@ -9,7 +9,9 @@ I am a Computer Science PhD student at the University of Chicago, advised by Pro
 
 My research interests are in Computer Science Education. I **design, develop, and evaluate new instructional technologies and resources for computer science**, with the long-term goal of enabling a personalized, academically supportive environment for a wider range of learners.
 
-My PhD work has focused on achieving this goal at the K-12 level. I work with in-service educators to help them create and implement customized, culturally responsive computing instruction in real classrooms, through scaffolding, professional development, and AI tools.
+<!-- My PhD work has focused on achieving this goal at the K-12 level. I work with in-service educators to help them create and implement customized, culturally responsive computing instruction in real classrooms, through scaffolding, professional development, and AI tools. -->
+
+My PhD work has focused on achieving this goal at the K-12 level. I work with in-service educators to understand and support them in creating and delivering customized computing instruction that better reflects the interests, characteristics, and lived experiences of the students they serve. I have **(1)** identified challenges teachers face in customization and co-designed with them scaffolds to support this process, **(2)** built an interactive AI tool that teachers can use to create customized materials for a block-based programming curriculum, and **(3)** investigated how teacher-AI collaboration shapes curriculum design and teaching practices in real classrooms.
 
 ##### *Note: You may find me as Ngoc Minh Tran somewhere on the Internet -- yes, that is my full name! But my first name is Minh -- pronounced "[Mink](https://en.wikipedia.org/wiki/Mink){:target="_blank"}" with a silent "k".*
 
