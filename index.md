@@ -5,7 +5,7 @@ logo: /assets/img/profile.jpg
 logo_note: true
 ---
 
-I am a Computer Science PhD student at the University of Chicago, advised by Professor [Diana Franklin](https://people.cs.uchicago.edu/~dmfranklin/){:target="_blank"}. Previously, I received dual Bachelor's degrees in Computer Science and Psychology from the University of Arizona. Before college, I grew up in a small town in Northwest Vietnam.
+I am a Computer Science PhD student at the University of Chicago, advised by Professor [Diana Franklin](https://people.cs.uchicago.edu/~dmfranklin/){:target="_blank"}. I received my Bachelor's degrees in Computer Science and Psychology from the University of Arizona. Before college, I grew up in [a moutainous province in Northwest Vietnam](https://en.wikipedia.org/wiki/L%C3%A0o_Cai_province){:target="_blank"}.
 
 My research interests are in Computer Science Education. I **design, develop, and evaluate new instructional technologies and resources for computer science**, with the long-term goal of enabling a personalized, academically supportive environment for a wider range of learners.
 
@@ -13,12 +13,14 @@ My research interests are in Computer Science Education. I **design, develop, an
 
 My PhD work has focused on achieving this goal at the K-12 level. I work with in-service educators to understand and support them in creating and delivering customized computing instruction that better reflects the interests, characteristics, and lived experiences of the students they serve. I have **(1)** identified challenges teachers face in customization and co-designed with them scaffolds to support this process, **(2)** built an interactive AI tool that teachers can use to create customized materials for a block-based programming curriculum, and **(3)** investigated how teacher-AI collaboration shapes curriculum design and teaching practices in real classrooms.
 
-##### *Note: You may find me as Ngoc Minh Tran somewhere on the Internet -- yes, that is my full name! But my first name is Minh -- pronounced "[Mink](https://en.wikipedia.org/wiki/Mink){:target="_blank"}" with a silent "k".*
+Feel free to reach out at ngminhtran [at] uchicago [dot] edu!
+
+##### *Note: You may find me as Ngoc Minh Tran somewhere on the Internet -- yes, that is my full name! But my first name is Minh -- pronounced "[Mink](https://en.wikipedia.org/wiki/Mink){:target="_blank"}" with a silent "k"; Ngoc is not.*
 
 * * *
-## Publications 
+## Selected Publications 
 
-##### \* denotes equal contribution
+##### Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=elG0WcsAAAAJ&hl=en&oi=ao){:target="_blank"}<br>\* denotes equal contribution
 
 [Teachers' Experiences Customizing Scratch Instructional Resources with an Interactive AI-Powered Tool](/assets/papers/ConjurorTeacherInterviews_SIGCSE_2027.pdf){:target="_blank"}\
 <sub>**Minh Tran**, Nitzan Koren, David Gonzalez-Maldonado, David Weintrop, Diana Franklin</sub>\
@@ -27,10 +29,6 @@ My PhD work has focused on achieving this goal at the K-12 level. I work with in
 [Finding Goldilocks: Exploring Teachers' Approaches to Create Customized Materials for Use-Modify Scratch Activities](/assets/papers/HarmonizingGoldilocks_SIGCSE_2027.pdf){:target="_blank"}\
 <sub>**Minh Tran**, Nitzan Koren, Elana Blinder, Jen Palmer, David Weintrop, Diana Franklin</sub>\
 <sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2027 (to appear)*</sup>
-
-[Scaffolding Teachers to Draw on Students' Cultures and Lived Experiences to Customize Computing Resources with "About My Students" Collage Activity](/assets/papers/HarmonizingCollages_SIGCSEV_2026.pdf){:target="_blank"}\
-<sub>**Minh Tran**, Erica Goodwin, J. Elisabeth Kasner, Jen Palmer, David Weintrop, Diana Franklin</sub>\
-<sup>*ACM Virtual Global Computing Education Conference (SIGCSE Virtual), 2026 (to appear)*</sup>
 
 [Conjuror: A GenAI-powered Tool to Support Teachers Customizing a Scratch Curriculum](/assets/papers/ConjurorTool_ITiCSE_2026.pdf){:target="_blank"}\
 <sub>**Minh Tran\***, David Gonzalez-Maldonado\*, Diana Franklin</sub>\
