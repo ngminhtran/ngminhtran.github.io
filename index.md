@@ -23,7 +23,7 @@ Feel free to reach out at ngminhtran [at] uchicago [dot] edu!
 ##### Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=elG0WcsAAAAJ&hl=en&oi=ao){:target="_blank"}<br>\* denotes equal contribution
 
 [Teachers' Experiences Customizing Scratch Instructional Resources with an Interactive AI-Powered Tool](/assets/papers/ConjurorTeacherInterviews_SIGCSE_2027.pdf){:target="_blank"}\
-<sub>**Minh Tran**, Nitzan Koren, David Gonzalez-Maldonado, David Weintrop, Diana Franklin</sub>\
+<sub>**Minh Tran**\*, Nitzan Koren\*, David Gonzalez-Maldonado, David Weintrop, Diana Franklin</sub>\
 <sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2027 (to appear)*</sup>
 
 [Finding Goldilocks: Exploring Teachers' Approaches to Create Customized Materials for Use-Modify Scratch Activities](/assets/papers/HarmonizingGoldilocks_SIGCSE_2027.pdf){:target="_blank"}\
@@ -31,7 +31,7 @@ Feel free to reach out at ngminhtran [at] uchicago [dot] edu!
 <sup>*ACM Technical Symposium on Computer Science Education (SIGCSE), 2027 (to appear)*</sup>
 
 [Conjuror: A GenAI-powered Tool to Support Teachers Customizing a Scratch Curriculum](/assets/papers/ConjurorTool_ITiCSE_2026.pdf){:target="_blank"}\
-<sub>**Minh Tran\***, David Gonzalez-Maldonado\*, Diana Franklin</sub>\
+<sub>**Minh Tran**\*, David Gonzalez-Maldonado\*, Diana Franklin</sub>\
 <sup>*ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE), 2026*</sup>\
 <sup>**<span style="color:#964108">Best Paper Nomination</span>**</sup>
 
