@@ -5,7 +5,7 @@ logo: /assets/img/profile.jpg
 logo_note: true
 ---
 
-I am a Computer Science PhD student at the University of Chicago, advised by Professor [Diana Franklin](https://people.cs.uchicago.edu/~dmfranklin/){:target="_blank"}. I received my Bachelor's degrees in Computer Science and Psychology from the University of Arizona. Before college, I grew up in [a moutainous province in Northwest Vietnam](https://en.wikipedia.org/wiki/L%C3%A0o_Cai_province){:target="_blank"}.
+I am a PhD Candidate at the University of Chicago, advised by Professor [Diana Franklin](https://people.cs.uchicago.edu/~dmfranklin/){:target="_blank"}. Previously, I received my Bachelor's degrees in Computer Science and Psychology from the University of Arizona. Before college, I grew up in [a moutainous province in Northwest Vietnam](https://en.wikipedia.org/wiki/L%C3%A0o_Cai_province){:target="_blank"}.
 
 My research interests are in Computer Science Education. I **design, develop, and evaluate new instructional technologies and resources for computer science**, with the long-term goal of enabling a personalized, academically supportive environment for a wider range of learners.
 
